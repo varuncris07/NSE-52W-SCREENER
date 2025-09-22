@@ -1,0 +1,392 @@
+2025-07-11 12:01:52,517 ERROR 
+1 Failed download:
+2025-07-11 12:01:52,519 ERROR ['SUZLON.NS']: HTTPError('Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:12:43,811 ERROR 
+1 Failed download:
+2025-07-11 12:12:43,813 ERROR ['M&M.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:18:05,741 ERROR 
+2 Failed downloads:
+2025-07-11 12:18:05,742 ERROR ['BRIGADE.NS']: HTTPError('Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:18:05,742 ERROR ['THERMAX.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:23:31,537 ERROR 
+1 Failed download:
+2025-07-11 12:23:31,539 ERROR ['COLPAL.NS']: HTTPError('Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:29:10,241 ERROR 
+1 Failed download:
+2025-07-11 12:29:10,242 ERROR ['BRIGADE.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:39:52,898 ERROR 
+1 Failed download:
+2025-07-11 12:39:52,899 ERROR ['LAURUSLABS.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:40:03,755 ERROR 
+1 Failed download:
+2025-07-11 12:40:03,756 ERROR ['OBEROIRLTY.NS']: HTTPError('Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:42:11,612 ERROR 
+1 Failed download:
+2025-07-11 12:42:11,613 ERROR ['HINDALCO.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:45:25,492 ERROR 
+1 Failed download:
+2025-07-11 12:45:25,492 ERROR ['FEDERALBNK.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:47:30,608 ERROR 
+1 Failed download:
+2025-07-11 12:47:30,609 ERROR ['MANKIND.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 12:51:10,369 ERROR 
+1 Failed download:
+2025-07-11 12:51:10,370 ERROR ['IOB.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 13:03:36,901 ERROR 
+1 Failed download:
+2025-07-11 13:03:36,901 ERROR ['SAIL.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 13:09:15,154 ERROR 
+1 Failed download:
+2025-07-11 13:09:15,157 ERROR ['ALKEM.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 13:14:30,381 ERROR 
+1 Failed download:
+2025-07-11 13:14:30,383 ERROR ['TRENT.NS']: HTTPError('Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 13:14:51,748 ERROR 
+1 Failed download:
+2025-07-11 13:14:51,748 ERROR ['HCLTECH.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 13:33:42,555 ERROR 
+1 Failed download:
+2025-07-11 13:33:42,557 ERROR ['ADANIGREEN.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 13:36:19,925 ERROR 
+1 Failed download:
+2025-07-11 13:36:19,926 ERROR ['EMAMILTD.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 7572 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 13:44:38,555 ERROR 
+1 Failed download:
+2025-07-11 13:44:38,555 ERROR ['ABBOTINDIA.NS']: ConnectionError('Failed to perform, curl: (56) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR 
+8 Failed downloads:
+2025-07-11 14:18:34,921 ERROR ['DLF.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953703 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR ['PATANJALI.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953596 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953595 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953550 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR ['CESC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953574 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR ['JBCHEPHARM.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953523 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 953892 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,921 ERROR ['HEROMOTOCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 953886 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR 
+8 Failed downloads:
+2025-07-11 14:18:34,955 ERROR ['TRITURBINE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953718 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR ['SBILIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953553 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR ['ETERNAL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 953893 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR ['VBL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953569 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR ['BPCL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953588 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR ['CASTROLIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953529 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR ['ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 953622 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:34,955 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 953891 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,905 ERROR 
+16 Failed downloads:
+2025-07-11 14:51:49,906 ERROR ['MRF.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1002909 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['SUNPHARMA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002590 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['ITC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002581 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['EXIDEIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002573 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['BRIGADE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002545 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['SUZLON.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002561 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['RAILTEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002440 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['HDFCBANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003149 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['ADANIPORTS.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983702 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['NTPC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983574 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['ZYDUSLIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983619 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['PATANJALI.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 983895 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['AUBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983519 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['LUPIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983685 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['JBCHEPHARM.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 983775 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:49,906 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 983898 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,989 ERROR 
+17 Failed downloads:
+2025-07-11 15:09:13,990 ERROR ['POWERGRID.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1002904 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['RITES.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002568 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002577 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['AXISBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002584 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['ICICIBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002437 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['IOC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002541 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['BEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002526 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['GAIL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003104 milliseconds with 9104 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['SBILIFE.NS', 'HCLTECH.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 983896 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983577 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['ITI.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983578 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['GUJGASLTD.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 983901 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['JSWSTEEL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 983899 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['TATAPOWER.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 983895 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['M&M.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 983874 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:13,990 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1044869 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,819 ERROR 
+8 Failed downloads:
+2025-07-11 15:25:05,819 ERROR ['TVSMOTOR.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 943937 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,819 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 943701 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,819 ERROR ['TORNTPOWER.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 943831 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,819 ERROR ['DLF.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 943830 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,819 ERROR ['PATANJALI.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 943685 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,819 ERROR ['CESC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 943684 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,820 ERROR ['JBCHEPHARM.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 943631 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:05,820 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 943665 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR 
+9 Failed downloads:
+2025-07-11 15:47:15,787 ERROR ['MAHABANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1057375 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR ['JIOFIN.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1056363 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR ['SOBHA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1056366 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR ['DIVISLAB.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1056364 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR ['ETERNAL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056343 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056342 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR ['TRITURBINE.NS', 'ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056341 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,787 ERROR ['SBILIFE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 273263 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR 
+17 Failed downloads:
+2025-07-11 16:03:09,955 ERROR ['SUNPHARMA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056353 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR ['ITC.NS', 'GLENMARK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056343 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR ['EXIDEIND.NS', 'RAILTEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056340 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR ['SUZLON.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056341 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR ['BRIGADE.NS', 'THERMAX.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1056342 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR ['TATASTEEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 268651 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR ['BHARTIARTL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 268596 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,955 ERROR ['AUBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 268666 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,956 ERROR ['INFY.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 268534 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,956 ERROR ['POWERINDIA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 268533 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,956 ERROR ['LUPIN.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 268888 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,956 ERROR ['ZYDUSLIFE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 268886 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,956 ERROR ['NTPC.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 268885 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:03:09,956 ERROR ['UNITDSPR.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 953901 milliseconds with 5664 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR 
+9 Failed downloads:
+2025-07-11 16:20:36,907 ERROR ['ASHOKLEY.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947791 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['LT.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947620 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['IDFCFIRSTB.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 947580 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['MGL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947631 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['GRANULES.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 947521 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['SHRIRAMFIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 947453 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['GODREJCP.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947793 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['BALKRISIND.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947977 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:20:36,907 ERROR ['TIINDIA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1046921 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:36:33,147 ERROR 
+8 Failed downloads:
+2025-07-11 16:36:33,147 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 947116 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:36:33,147 ERROR ['WIPRO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947920 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:36:33,147 ERROR ['MOTHERSON.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947919 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:36:33,147 ERROR ['BAJAJFINSV.NS', 'HINDPETRO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947922 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:36:33,147 ERROR ['TRENT.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947797 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:36:33,147 ERROR ['UCOBANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947806 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:36:33,147 ERROR ['COFORGE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 947918 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:54:23,711 ERROR 
+8 Failed downloads:
+2025-07-11 16:54:23,712 ERROR ['POWERINDIA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1066069 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:54:23,712 ERROR ['CASTROLIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1066127 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:54:23,712 ERROR ['VBL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1066247 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:54:23,712 ERROR ['SBILIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1066246 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:54:23,712 ERROR ['GUJGASLTD.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1066509 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:54:23,712 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066934 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 16:54:23,712 ERROR ['TRITURBINE.NS', 'BPCL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066933 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,053 ERROR 
+19 Failed downloads:
+2025-07-11 17:26:39,053 ERROR ['MANKIND.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066932 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['TCS.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066928 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['MRF.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066931 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['HDFCBANK.NS', 'INDIANB.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066929 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066930 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['EICHERMOT.NS', 'OIL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1066933 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['TORNTPOWER.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 899682 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['TRENT.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 899775 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['DLF.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 899652 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['TVSMOTOR.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 899693 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['HEROMOTOCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 899760 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 899599 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['UCOBANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 899896 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 899885 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['ABB.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1030767 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['MGL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1032924 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:39,054 ERROR ['BIOCON.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1030926 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR 
+16 Failed downloads:
+2025-07-11 17:26:42,799 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 899896 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['ANANTRAJ.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 899576 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['ICICIBANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 899804 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['RITES.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 899898 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['IOC.NS', 'BEL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 899897 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['ZYDUSLIFE.NS', 'IRFC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 899875 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['MPHASIS.NS', 'RELIANCE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1029997 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['DLF.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1029987 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['TATAPOWER.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1030774 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['ITI.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1030662 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1030683 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,799 ERROR ['IGL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1030592 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 17:26:42,800 ERROR ['CASTROLIND.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1031130 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,795 ERROR 
+8 Failed downloads:
+2025-07-11 18:00:58,795 ERROR ['BPCL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003688 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,795 ERROR ['CASTROLIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003597 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,795 ERROR ['POWERINDIA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003499 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,795 ERROR ['VBL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003625 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,795 ERROR ['SBILIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003621 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,795 ERROR ['MARICO.NS', 'TRITURBINE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003939 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,795 ERROR ['ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003940 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR 
+8 Failed downloads:
+2025-07-11 18:00:58,896 ERROR ['HEROMOTOCO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003671 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR ['DLF.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003509 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003697 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR ['TORNTPOWER.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003540 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR ['TVSMOTOR.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003663 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1003508 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR ['COFORGE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003943 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:00:58,896 ERROR ['UCOBANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1003944 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,494 ERROR 
+16 Failed downloads:
+2025-07-11 18:32:50,495 ERROR ['ITC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904599 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['SUZLON.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904583 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['SUNPHARMA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904623 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['EXIDEIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904587 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['RAILTEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904500 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['BRIGADE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904565 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['OIL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 905049 milliseconds with 9104 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['TCS.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 905071 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['NTPC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998648 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['TATASTEEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998580 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['BHARTIARTL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998499 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['POWERINDIA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998486 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['INFY.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998498 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['AUBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998606 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['LUPIN.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 998931 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,495 ERROR ['ZYDUSLIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998917 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR 
+16 Failed downloads:
+2025-07-11 18:32:50,688 ERROR ['AXISBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904659 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['ICICIBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904526 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['BEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904617 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['RITES.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904645 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['IRFC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904529 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['ZYDUSLIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904516 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['IOC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904650 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 904657 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['TATAPOWER.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998658 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['HCLTECH.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 998725 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['M&M.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998499 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['JSWSTEEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998682 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 998482 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['CASTROLIND.NS', 'GUJGASLTD.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 998930 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 18:32:50,688 ERROR ['POWERINDIA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 998935 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:14,857 ERROR 
+8 Failed downloads:
+2025-07-11 19:05:14,859 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 909659 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:14,859 ERROR ['TVSMOTOR.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909707 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:14,859 ERROR ['PATANJALI.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 909635 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:14,859 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909895 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:14,859 ERROR ['TRENT.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909894 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:14,859 ERROR ['HEROMOTOCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909893 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:14,859 ERROR ['DLF.NS', 'TORNTPOWER.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 909881 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,112 ERROR 
+8 Failed downloads:
+2025-07-11 19:05:15,113 ERROR ['LODHA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909894 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,113 ERROR ['BPCL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 909648 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,113 ERROR ['ETERNAL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909757 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,113 ERROR ['ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 909659 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,113 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909742 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,113 ERROR ['TRITURBINE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 909683 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,113 ERROR ['SOBHA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909897 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:05:15,113 ERROR ['DIVISLAB.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 909892 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR 
+16 Failed downloads:
+2025-07-11 19:25:15,418 ERROR ['EXIDEIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1001092 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['SUZLON.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1001086 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['BRIGADE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1001017 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['RAILTEL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1001016 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['SUNPHARMA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1001202 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['ITC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1001200 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['MRF.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001880 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['GLENMARK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1001546 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['POWERINDIA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 190644 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['LAURUSLABS.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 190595 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['SJVN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 190550 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['LTIM.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 190519 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['AUBANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 190937 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['TATASTEEL.NS', 'BHARTIARTL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 190936 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:15,418 ERROR ['INFY.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 190935 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,318 ERROR 
+16 Failed downloads:
+2025-07-11 19:25:16,319 ERROR ['BEML.NS', 'POWERGRID.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001786 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['OBEROIRLTY.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001793 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['ONGC.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001787 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['RAILTEL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001788 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['TATASTEEL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001792 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['ABBOTINDIA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001785 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['GAIL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1001789 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['MARUTI.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 191929 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['NATCOPHARM.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 190927 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 190564 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['BPCL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 190537 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['VBL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 190489 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 190936 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['TRITURBINE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 190938 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:25:16,319 ERROR ['LODHA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 191356 milliseconds with 7804 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,761 ERROR 
+8 Failed downloads:
+2025-07-11 19:58:24,763 ERROR ['ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948685 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,763 ERROR ['SBILIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948507 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,763 ERROR ['BPCL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948686 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,763 ERROR ['VBL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948604 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,763 ERROR ['SOBHA.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 948900 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,763 ERROR ['DIVISLAB.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 948901 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,763 ERROR ['ETERNAL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 948899 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,763 ERROR ['TRITURBINE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 948903 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR 
+8 Failed downloads:
+2025-07-11 19:58:24,862 ERROR ['TVSMOTOR.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948688 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948639 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR ['DLF.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948641 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR ['PATANJALI.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948506 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR ['TORNTPOWER.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948657 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 948733 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR ['HEROMOTOCO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 948711 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 19:58:24,862 ERROR ['COFORGE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 948899 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,871 ERROR 
+16 Failed downloads:
+2025-07-11 20:29:01,873 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 929884 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['HDFCBANK.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 929891 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['TCS.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 929892 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['SUNPHARMA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 929508 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['ITC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 929486 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['EXIDEIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 929478 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['SUZLON.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 929473 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['OIL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 930062 milliseconds with 9104 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['LUPIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898126 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['ADANIPORTS.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898172 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['ZYDUSLIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898597 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['NTPC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898593 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['AUBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898582 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['PATANJALI.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 898934 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['CESC.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 898940 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:01,873 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 898931 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR 
+16 Failed downloads:
+2025-07-11 20:29:02,084 ERROR ['ONGC.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 929888 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['ULTRACEMCO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 929566 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['AXISBANK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 929568 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['OBEROIRLTY.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 930059 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['RAILTEL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 930054 milliseconds with 9104 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['TATASTEEL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 930062 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['GAIL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 930076 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['BEML.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 930092 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['POWERINDIA.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898068 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['CASTROLIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898135 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['SBILIFE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898179 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 898936 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['VBL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 898761 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['GUJGASLTD.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 898564 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 898935 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:29:02,084 ERROR ['BPCL.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 898940 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,485 ERROR 
+8 Failed downloads:
+2025-07-11 20:59:04,486 ERROR ['SBIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792746 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,486 ERROR ['JBCHEPHARM.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792744 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,486 ERROR ['PATANJALI.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792757 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,486 ERROR ['CESC.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792756 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,486 ERROR ['DLF.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792866 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,486 ERROR ['GVT&D.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792869 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,486 ERROR ['TVSMOTOR.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 793553 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,486 ERROR ['TORNTPOWER.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 793556 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,829 ERROR 
+8 Failed downloads:
+2025-07-11 20:59:04,830 ERROR ['ETERNAL.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792752 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,830 ERROR ['MARICO.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792746 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,830 ERROR ['TRITURBINE.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792741 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,830 ERROR ['SOBHA.NS', 'DIVISLAB.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 792869 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,830 ERROR ['FEDERALBNK.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 794546 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,830 ERROR ['NATCOPHARM.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 793555 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 20:59:04,830 ERROR ['ADANIENT.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 793324 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')

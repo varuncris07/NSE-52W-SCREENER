@@ -1,0 +1,538 @@
+2025-07-11 12:27:03,784 WARNING Could not load sector Financial Services: HTTP Error 404: Not Found
+2025-07-11 12:27:05,022 WARNING Could not load sector Infrastructure: HTTP Error 404: Not Found
+2025-07-11 12:27:05,162 WARNING Could not load sector Cement: HTTP Error 404: Not Found
+2025-07-11 12:27:05,315 WARNING Could not load sector Railway: HTTP Error 404: Not Found
+2025-07-11 12:27:05,457 WARNING Could not load sector Defence: HTTP Error 404: Not Found
+2025-07-11 12:27:06,140 INFO Pattern scan start: 2025-07-11 13:57 IST
+2025-07-11 12:28:11,977 WARNING Could not load sector Financial Services: HTTP Error 404: Not Found
+2025-07-11 12:28:13,316 WARNING Could not load sector Infrastructure: HTTP Error 404: Not Found
+2025-07-11 12:28:13,483 WARNING Could not load sector Cement: HTTP Error 404: Not Found
+2025-07-11 12:28:13,648 WARNING Could not load sector Railway: HTTP Error 404: Not Found
+2025-07-11 12:28:13,814 WARNING Could not load sector Defence: HTTP Error 404: Not Found
+2025-07-11 12:28:14,168 INFO Pattern scan start: 2025-07-11 13:58 IST
+2025-07-11 12:29:29,573 WARNING Could not load sector Financial Services: HTTP Error 404: Not Found
+2025-07-11 12:29:30,882 WARNING Could not load sector Infrastructure: HTTP Error 404: Not Found
+2025-07-11 12:29:31,032 WARNING Could not load sector Cement: HTTP Error 404: Not Found
+2025-07-11 12:29:31,211 WARNING Could not load sector Railway: HTTP Error 404: Not Found
+2025-07-11 12:29:31,363 WARNING Could not load sector Defence: HTTP Error 404: Not Found
+2025-07-11 12:29:44,475 INFO Pattern scan start: 2025-07-11 13:59 IST
+2025-07-11 12:29:45,812 WARNING Missing OHLCV columns for ABB.NS, columns found: [('Adj Close', 'ABB.NS'), ('Close', 'ABB.NS'), ('High', 'ABB.NS'), ('Low', 'ABB.NS'), ('Open', 'ABB.NS'), ('Volume', 'ABB.NS')]. Skipping.
+2025-07-11 12:29:46,424 WARNING Missing OHLCV columns for ABBOTINDIA.NS, columns found: [('Adj Close', 'ABBOTINDIA.NS'), ('Close', 'ABBOTINDIA.NS'), ('High', 'ABBOTINDIA.NS'), ('Low', 'ABBOTINDIA.NS'), ('Open', 'ABBOTINDIA.NS'), ('Volume', 'ABBOTINDIA.NS')]. Skipping.
+2025-07-11 12:29:46,827 WARNING Missing OHLCV columns for ADANIENSOL.NS, columns found: [('Adj Close', 'ADANIENSOL.NS'), ('Close', 'ADANIENSOL.NS'), ('High', 'ADANIENSOL.NS'), ('Low', 'ADANIENSOL.NS'), ('Open', 'ADANIENSOL.NS'), ('Volume', 'ADANIENSOL.NS')]. Skipping.
+2025-07-11 12:29:47,652 WARNING Missing OHLCV columns for ADANIENT.NS, columns found: [('Adj Close', 'ADANIENT.NS'), ('Close', 'ADANIENT.NS'), ('High', 'ADANIENT.NS'), ('Low', 'ADANIENT.NS'), ('Open', 'ADANIENT.NS'), ('Volume', 'ADANIENT.NS')]. Skipping.
+2025-07-11 12:29:48,359 WARNING Missing OHLCV columns for ADANIGREEN.NS, columns found: [('Adj Close', 'ADANIGREEN.NS'), ('Close', 'ADANIGREEN.NS'), ('High', 'ADANIGREEN.NS'), ('Low', 'ADANIGREEN.NS'), ('Open', 'ADANIGREEN.NS'), ('Volume', 'ADANIGREEN.NS')]. Skipping.
+2025-07-11 12:29:49,254 WARNING Missing OHLCV columns for ADANIPORTS.NS, columns found: [('Adj Close', 'ADANIPORTS.NS'), ('Close', 'ADANIPORTS.NS'), ('High', 'ADANIPORTS.NS'), ('Low', 'ADANIPORTS.NS'), ('Open', 'ADANIPORTS.NS'), ('Volume', 'ADANIPORTS.NS')]. Skipping.
+2025-07-11 12:29:49,963 WARNING Missing OHLCV columns for ADANIPOWER.NS, columns found: [('Adj Close', 'ADANIPOWER.NS'), ('Close', 'ADANIPOWER.NS'), ('High', 'ADANIPOWER.NS'), ('Low', 'ADANIPOWER.NS'), ('Open', 'ADANIPOWER.NS'), ('Volume', 'ADANIPOWER.NS')]. Skipping.
+2025-07-11 12:29:50,359 WARNING Missing OHLCV columns for AEGISLOG.NS, columns found: [('Adj Close', 'AEGISLOG.NS'), ('Close', 'AEGISLOG.NS'), ('High', 'AEGISLOG.NS'), ('Low', 'AEGISLOG.NS'), ('Open', 'AEGISLOG.NS'), ('Volume', 'AEGISLOG.NS')]. Skipping.
+2025-07-11 12:29:51,226 WARNING Missing OHLCV columns for AJANTPHARM.NS, columns found: [('Adj Close', 'AJANTPHARM.NS'), ('Close', 'AJANTPHARM.NS'), ('High', 'AJANTPHARM.NS'), ('Low', 'AJANTPHARM.NS'), ('Open', 'AJANTPHARM.NS'), ('Volume', 'AJANTPHARM.NS')]. Skipping.
+2025-07-11 12:29:51,688 WARNING Missing OHLCV columns for ALKEM.NS, columns found: [('Adj Close', 'ALKEM.NS'), ('Close', 'ALKEM.NS'), ('High', 'ALKEM.NS'), ('Low', 'ALKEM.NS'), ('Open', 'ALKEM.NS'), ('Volume', 'ALKEM.NS')]. Skipping.
+2025-07-11 12:29:52,425 WARNING Missing OHLCV columns for ANANTRAJ.NS, columns found: [('Adj Close', 'ANANTRAJ.NS'), ('Close', 'ANANTRAJ.NS'), ('High', 'ANANTRAJ.NS'), ('Low', 'ANANTRAJ.NS'), ('Open', 'ANANTRAJ.NS'), ('Volume', 'ANANTRAJ.NS')]. Skipping.
+2025-07-11 12:29:53,312 WARNING Missing OHLCV columns for APOLLOHOSP.NS, columns found: [('Adj Close', 'APOLLOHOSP.NS'), ('Close', 'APOLLOHOSP.NS'), ('High', 'APOLLOHOSP.NS'), ('Low', 'APOLLOHOSP.NS'), ('Open', 'APOLLOHOSP.NS'), ('Volume', 'APOLLOHOSP.NS')]. Skipping.
+2025-07-11 12:29:54,186 WARNING Missing OHLCV columns for ASHOKLEY.NS, columns found: [('Adj Close', 'ASHOKLEY.NS'), ('Close', 'ASHOKLEY.NS'), ('High', 'ASHOKLEY.NS'), ('Low', 'ASHOKLEY.NS'), ('Open', 'ASHOKLEY.NS'), ('Volume', 'ASHOKLEY.NS')]. Skipping.
+2025-07-11 12:29:55,042 WARNING Missing OHLCV columns for ASIANPAINT.NS, columns found: [('Adj Close', 'ASIANPAINT.NS'), ('Close', 'ASIANPAINT.NS'), ('High', 'ASIANPAINT.NS'), ('Low', 'ASIANPAINT.NS'), ('Open', 'ASIANPAINT.NS'), ('Volume', 'ASIANPAINT.NS')]. Skipping.
+2025-07-11 12:29:55,489 WARNING Missing OHLCV columns for ATGL.NS, columns found: [('Adj Close', 'ATGL.NS'), ('Close', 'ATGL.NS'), ('High', 'ATGL.NS'), ('Low', 'ATGL.NS'), ('Open', 'ATGL.NS'), ('Volume', 'ATGL.NS')]. Skipping.
+2025-07-11 12:29:56,150 WARNING Missing OHLCV columns for AUBANK.NS, columns found: [('Adj Close', 'AUBANK.NS'), ('Close', 'AUBANK.NS'), ('High', 'AUBANK.NS'), ('Low', 'AUBANK.NS'), ('Open', 'AUBANK.NS'), ('Volume', 'AUBANK.NS')]. Skipping.
+2025-07-11 12:29:57,184 WARNING Missing OHLCV columns for AUROPHARMA.NS, columns found: [('Adj Close', 'AUROPHARMA.NS'), ('Close', 'AUROPHARMA.NS'), ('High', 'AUROPHARMA.NS'), ('Low', 'AUROPHARMA.NS'), ('Open', 'AUROPHARMA.NS'), ('Volume', 'AUROPHARMA.NS')]. Skipping.
+2025-07-11 12:29:57,913 WARNING Missing OHLCV columns for AXISBANK.NS, columns found: [('Adj Close', 'AXISBANK.NS'), ('Close', 'AXISBANK.NS'), ('High', 'AXISBANK.NS'), ('Low', 'AXISBANK.NS'), ('Open', 'AXISBANK.NS'), ('Volume', 'AXISBANK.NS')]. Skipping.
+2025-07-11 12:29:58,755 WARNING Missing OHLCV columns for BAJAJ-AUTO.NS, columns found: [('Adj Close', 'BAJAJ-AUTO.NS'), ('Close', 'BAJAJ-AUTO.NS'), ('High', 'BAJAJ-AUTO.NS'), ('Low', 'BAJAJ-AUTO.NS'), ('Open', 'BAJAJ-AUTO.NS'), ('Volume', 'BAJAJ-AUTO.NS')]. Skipping.
+2025-07-11 12:29:59,502 WARNING Missing OHLCV columns for BAJAJFINSV.NS, columns found: [('Adj Close', 'BAJAJFINSV.NS'), ('Close', 'BAJAJFINSV.NS'), ('High', 'BAJAJFINSV.NS'), ('Low', 'BAJAJFINSV.NS'), ('Open', 'BAJAJFINSV.NS'), ('Volume', 'BAJAJFINSV.NS')]. Skipping.
+2025-07-11 12:30:00,315 WARNING Missing OHLCV columns for BAJFINANCE.NS, columns found: [('Adj Close', 'BAJFINANCE.NS'), ('Close', 'BAJFINANCE.NS'), ('High', 'BAJFINANCE.NS'), ('Low', 'BAJFINANCE.NS'), ('Open', 'BAJFINANCE.NS'), ('Volume', 'BAJFINANCE.NS')]. Skipping.
+2025-07-11 12:30:01,192 WARNING Missing OHLCV columns for BALKRISIND.NS, columns found: [('Adj Close', 'BALKRISIND.NS'), ('Close', 'BALKRISIND.NS'), ('High', 'BALKRISIND.NS'), ('Low', 'BALKRISIND.NS'), ('Open', 'BALKRISIND.NS'), ('Volume', 'BALKRISIND.NS')]. Skipping.
+2025-07-11 12:30:02,170 WARNING Missing OHLCV columns for BANKBARODA.NS, columns found: [('Adj Close', 'BANKBARODA.NS'), ('Close', 'BANKBARODA.NS'), ('High', 'BANKBARODA.NS'), ('Low', 'BANKBARODA.NS'), ('Open', 'BANKBARODA.NS'), ('Volume', 'BANKBARODA.NS')]. Skipping.
+2025-07-11 12:30:02,835 WARNING Missing OHLCV columns for BANKINDIA.NS, columns found: [('Adj Close', 'BANKINDIA.NS'), ('Close', 'BANKINDIA.NS'), ('High', 'BANKINDIA.NS'), ('Low', 'BANKINDIA.NS'), ('Open', 'BANKINDIA.NS'), ('Volume', 'BANKINDIA.NS')]. Skipping.
+2025-07-11 12:30:03,534 WARNING Missing OHLCV columns for BEL.NS, columns found: [('Adj Close', 'BEL.NS'), ('Close', 'BEL.NS'), ('High', 'BEL.NS'), ('Low', 'BEL.NS'), ('Open', 'BEL.NS'), ('Volume', 'BEL.NS')]. Skipping.
+2025-07-11 12:30:04,669 WARNING Missing OHLCV columns for BEML.NS, columns found: [('Adj Close', 'BEML.NS'), ('Close', 'BEML.NS'), ('High', 'BEML.NS'), ('Low', 'BEML.NS'), ('Open', 'BEML.NS'), ('Volume', 'BEML.NS')]. Skipping.
+2025-07-11 12:30:05,515 WARNING Missing OHLCV columns for BHARATFORG.NS, columns found: [('Adj Close', 'BHARATFORG.NS'), ('Close', 'BHARATFORG.NS'), ('High', 'BHARATFORG.NS'), ('Low', 'BHARATFORG.NS'), ('Open', 'BHARATFORG.NS'), ('Volume', 'BHARATFORG.NS')]. Skipping.
+2025-07-11 12:30:06,230 WARNING Missing OHLCV columns for BHARTIARTL.NS, columns found: [('Adj Close', 'BHARTIARTL.NS'), ('Close', 'BHARTIARTL.NS'), ('High', 'BHARTIARTL.NS'), ('Low', 'BHARTIARTL.NS'), ('Open', 'BHARTIARTL.NS'), ('Volume', 'BHARTIARTL.NS')]. Skipping.
+2025-07-11 12:30:07,085 WARNING Missing OHLCV columns for BHEL.NS, columns found: [('Adj Close', 'BHEL.NS'), ('Close', 'BHEL.NS'), ('High', 'BHEL.NS'), ('Low', 'BHEL.NS'), ('Open', 'BHEL.NS'), ('Volume', 'BHEL.NS')]. Skipping.
+2025-07-11 12:30:07,681 WARNING Missing OHLCV columns for BIOCON.NS, columns found: [('Adj Close', 'BIOCON.NS'), ('Close', 'BIOCON.NS'), ('High', 'BIOCON.NS'), ('Low', 'BIOCON.NS'), ('Open', 'BIOCON.NS'), ('Volume', 'BIOCON.NS')]. Skipping.
+2025-07-11 12:30:08,183 WARNING Missing OHLCV columns for BOSCHLTD.NS, columns found: [('Adj Close', 'BOSCHLTD.NS'), ('Close', 'BOSCHLTD.NS'), ('High', 'BOSCHLTD.NS'), ('Low', 'BOSCHLTD.NS'), ('Open', 'BOSCHLTD.NS'), ('Volume', 'BOSCHLTD.NS')]. Skipping.
+2025-07-11 12:30:09,029 WARNING Missing OHLCV columns for BPCL.NS, columns found: [('Adj Close', 'BPCL.NS'), ('Close', 'BPCL.NS'), ('High', 'BPCL.NS'), ('Low', 'BPCL.NS'), ('Open', 'BPCL.NS'), ('Volume', 'BPCL.NS')]. Skipping.
+2025-07-11 12:30:10,138 WARNING Missing OHLCV columns for BRIGADE.NS, columns found: [('Adj Close', 'BRIGADE.NS'), ('Close', 'BRIGADE.NS'), ('High', 'BRIGADE.NS'), ('Low', 'BRIGADE.NS'), ('Open', 'BRIGADE.NS'), ('Volume', 'BRIGADE.NS')]. Skipping.
+2025-07-11 12:30:10,971 WARNING Missing OHLCV columns for BRITANNIA.NS, columns found: [('Adj Close', 'BRITANNIA.NS'), ('Close', 'BRITANNIA.NS'), ('High', 'BRITANNIA.NS'), ('Low', 'BRITANNIA.NS'), ('Open', 'BRITANNIA.NS'), ('Volume', 'BRITANNIA.NS')]. Skipping.
+2025-07-11 12:30:11,582 WARNING Missing OHLCV columns for CANBK.NS, columns found: [('Adj Close', 'CANBK.NS'), ('Close', 'CANBK.NS'), ('High', 'CANBK.NS'), ('Low', 'CANBK.NS'), ('Open', 'CANBK.NS'), ('Volume', 'CANBK.NS')]. Skipping.
+2025-07-11 12:30:12,184 WARNING Missing OHLCV columns for CASTROLIND.NS, columns found: [('Adj Close', 'CASTROLIND.NS'), ('Close', 'CASTROLIND.NS'), ('High', 'CASTROLIND.NS'), ('Low', 'CASTROLIND.NS'), ('Open', 'CASTROLIND.NS'), ('Volume', 'CASTROLIND.NS')]. Skipping.
+2025-07-11 12:30:13,012 WARNING Missing OHLCV columns for CENTRALBK.NS, columns found: [('Adj Close', 'CENTRALBK.NS'), ('Close', 'CENTRALBK.NS'), ('High', 'CENTRALBK.NS'), ('Low', 'CENTRALBK.NS'), ('Open', 'CENTRALBK.NS'), ('Volume', 'CENTRALBK.NS')]. Skipping.
+2025-07-11 12:30:13,609 WARNING Missing OHLCV columns for CESC.NS, columns found: [('Adj Close', 'CESC.NS'), ('Close', 'CESC.NS'), ('High', 'CESC.NS'), ('Low', 'CESC.NS'), ('Open', 'CESC.NS'), ('Volume', 'CESC.NS')]. Skipping.
+2025-07-11 12:30:14,338 WARNING Missing OHLCV columns for CGPOWER.NS, columns found: [('Adj Close', 'CGPOWER.NS'), ('Close', 'CGPOWER.NS'), ('High', 'CGPOWER.NS'), ('Low', 'CGPOWER.NS'), ('Open', 'CGPOWER.NS'), ('Volume', 'CGPOWER.NS')]. Skipping.
+2025-07-11 12:30:14,852 WARNING Missing OHLCV columns for CIPLA.NS, columns found: [('Adj Close', 'CIPLA.NS'), ('Close', 'CIPLA.NS'), ('High', 'CIPLA.NS'), ('Low', 'CIPLA.NS'), ('Open', 'CIPLA.NS'), ('Volume', 'CIPLA.NS')]. Skipping.
+2025-07-11 12:30:15,604 WARNING Missing OHLCV columns for COALINDIA.NS, columns found: [('Adj Close', 'COALINDIA.NS'), ('Close', 'COALINDIA.NS'), ('High', 'COALINDIA.NS'), ('Low', 'COALINDIA.NS'), ('Open', 'COALINDIA.NS'), ('Volume', 'COALINDIA.NS')]. Skipping.
+2025-07-11 12:30:16,457 WARNING Missing OHLCV columns for COFORGE.NS, columns found: [('Adj Close', 'COFORGE.NS'), ('Close', 'COFORGE.NS'), ('High', 'COFORGE.NS'), ('Low', 'COFORGE.NS'), ('Open', 'COFORGE.NS'), ('Volume', 'COFORGE.NS')]. Skipping.
+2025-07-11 12:30:17,342 WARNING Missing OHLCV columns for COLPAL.NS, columns found: [('Adj Close', 'COLPAL.NS'), ('Close', 'COLPAL.NS'), ('High', 'COLPAL.NS'), ('Low', 'COLPAL.NS'), ('Open', 'COLPAL.NS'), ('Volume', 'COLPAL.NS')]. Skipping.
+2025-07-11 12:30:18,206 WARNING Missing OHLCV columns for CONCOR.NS, columns found: [('Adj Close', 'CONCOR.NS'), ('Close', 'CONCOR.NS'), ('High', 'CONCOR.NS'), ('Low', 'CONCOR.NS'), ('Open', 'CONCOR.NS'), ('Volume', 'CONCOR.NS')]. Skipping.
+2025-07-11 12:30:19,087 WARNING Missing OHLCV columns for DABUR.NS, columns found: [('Adj Close', 'DABUR.NS'), ('Close', 'DABUR.NS'), ('High', 'DABUR.NS'), ('Low', 'DABUR.NS'), ('Open', 'DABUR.NS'), ('Volume', 'DABUR.NS')]. Skipping.
+2025-07-11 12:30:19,586 WARNING Missing OHLCV columns for DIVISLAB.NS, columns found: [('Adj Close', 'DIVISLAB.NS'), ('Close', 'DIVISLAB.NS'), ('High', 'DIVISLAB.NS'), ('Low', 'DIVISLAB.NS'), ('Open', 'DIVISLAB.NS'), ('Volume', 'DIVISLAB.NS')]. Skipping.
+2025-07-11 12:30:20,463 WARNING Missing OHLCV columns for DLF.NS, columns found: [('Adj Close', 'DLF.NS'), ('Close', 'DLF.NS'), ('High', 'DLF.NS'), ('Low', 'DLF.NS'), ('Open', 'DLF.NS'), ('Volume', 'DLF.NS')]. Skipping.
+2025-07-11 12:30:21,354 WARNING Missing OHLCV columns for DRREDDY.NS, columns found: [('Adj Close', 'DRREDDY.NS'), ('Close', 'DRREDDY.NS'), ('High', 'DRREDDY.NS'), ('Low', 'DRREDDY.NS'), ('Open', 'DRREDDY.NS'), ('Volume', 'DRREDDY.NS')]. Skipping.
+2025-07-11 12:30:21,976 WARNING Missing OHLCV columns for EICHERMOT.NS, columns found: [('Adj Close', 'EICHERMOT.NS'), ('Close', 'EICHERMOT.NS'), ('High', 'EICHERMOT.NS'), ('Low', 'EICHERMOT.NS'), ('Open', 'EICHERMOT.NS'), ('Volume', 'EICHERMOT.NS')]. Skipping.
+2025-07-11 12:30:22,808 WARNING Missing OHLCV columns for EMAMILTD.NS, columns found: [('Adj Close', 'EMAMILTD.NS'), ('Close', 'EMAMILTD.NS'), ('High', 'EMAMILTD.NS'), ('Low', 'EMAMILTD.NS'), ('Open', 'EMAMILTD.NS'), ('Volume', 'EMAMILTD.NS')]. Skipping.
+2025-07-11 12:30:23,208 WARNING Missing OHLCV columns for ETERNAL.NS, columns found: [('Adj Close', 'ETERNAL.NS'), ('Close', 'ETERNAL.NS'), ('High', 'ETERNAL.NS'), ('Low', 'ETERNAL.NS'), ('Open', 'ETERNAL.NS'), ('Volume', 'ETERNAL.NS')]. Skipping.
+2025-07-11 12:30:23,967 WARNING Missing OHLCV columns for EXIDEIND.NS, columns found: [('Adj Close', 'EXIDEIND.NS'), ('Close', 'EXIDEIND.NS'), ('High', 'EXIDEIND.NS'), ('Low', 'EXIDEIND.NS'), ('Open', 'EXIDEIND.NS'), ('Volume', 'EXIDEIND.NS')]. Skipping.
+2025-07-11 12:30:24,831 WARNING Missing OHLCV columns for FEDERALBNK.NS, columns found: [('Adj Close', 'FEDERALBNK.NS'), ('Close', 'FEDERALBNK.NS'), ('High', 'FEDERALBNK.NS'), ('Low', 'FEDERALBNK.NS'), ('Open', 'FEDERALBNK.NS'), ('Volume', 'FEDERALBNK.NS')]. Skipping.
+2025-07-11 12:30:25,732 WARNING Missing OHLCV columns for GAIL.NS, columns found: [('Adj Close', 'GAIL.NS'), ('Close', 'GAIL.NS'), ('High', 'GAIL.NS'), ('Low', 'GAIL.NS'), ('Open', 'GAIL.NS'), ('Volume', 'GAIL.NS')]. Skipping.
+2025-07-11 12:30:26,152 WARNING Missing OHLCV columns for GLAND.NS, columns found: [('Adj Close', 'GLAND.NS'), ('Close', 'GLAND.NS'), ('High', 'GLAND.NS'), ('Low', 'GLAND.NS'), ('Open', 'GLAND.NS'), ('Volume', 'GLAND.NS')]. Skipping.
+2025-07-11 12:30:27,016 WARNING Missing OHLCV columns for GLENMARK.NS, columns found: [('Adj Close', 'GLENMARK.NS'), ('Close', 'GLENMARK.NS'), ('High', 'GLENMARK.NS'), ('Low', 'GLENMARK.NS'), ('Open', 'GLENMARK.NS'), ('Volume', 'GLENMARK.NS')]. Skipping.
+2025-07-11 12:30:27,642 WARNING Missing OHLCV columns for GODREJCP.NS, columns found: [('Adj Close', 'GODREJCP.NS'), ('Close', 'GODREJCP.NS'), ('High', 'GODREJCP.NS'), ('Low', 'GODREJCP.NS'), ('Open', 'GODREJCP.NS'), ('Volume', 'GODREJCP.NS')]. Skipping.
+2025-07-11 12:30:28,248 WARNING Missing OHLCV columns for GODREJPROP.NS, columns found: [('Adj Close', 'GODREJPROP.NS'), ('Close', 'GODREJPROP.NS'), ('High', 'GODREJPROP.NS'), ('Low', 'GODREJPROP.NS'), ('Open', 'GODREJPROP.NS'), ('Volume', 'GODREJPROP.NS')]. Skipping.
+2025-07-11 12:30:29,110 WARNING Missing OHLCV columns for GRANULES.NS, columns found: [('Adj Close', 'GRANULES.NS'), ('Close', 'GRANULES.NS'), ('High', 'GRANULES.NS'), ('Low', 'GRANULES.NS'), ('Open', 'GRANULES.NS'), ('Volume', 'GRANULES.NS')]. Skipping.
+2025-07-11 12:30:30,002 WARNING Missing OHLCV columns for GRASIM.NS, columns found: [('Adj Close', 'GRASIM.NS'), ('Close', 'GRASIM.NS'), ('High', 'GRASIM.NS'), ('Low', 'GRASIM.NS'), ('Open', 'GRASIM.NS'), ('Volume', 'GRASIM.NS')]. Skipping.
+2025-07-11 12:30:30,697 WARNING Missing OHLCV columns for GSPL.NS, columns found: [('Adj Close', 'GSPL.NS'), ('Close', 'GSPL.NS'), ('High', 'GSPL.NS'), ('Low', 'GSPL.NS'), ('Open', 'GSPL.NS'), ('Volume', 'GSPL.NS')]. Skipping.
+2025-07-11 12:30:31,267 WARNING Missing OHLCV columns for GUJGASLTD.NS, columns found: [('Adj Close', 'GUJGASLTD.NS'), ('Close', 'GUJGASLTD.NS'), ('High', 'GUJGASLTD.NS'), ('Low', 'GUJGASLTD.NS'), ('Open', 'GUJGASLTD.NS'), ('Volume', 'GUJGASLTD.NS')]. Skipping.
+2025-07-11 12:30:31,986 WARNING Missing OHLCV columns for GVT&D.NS, columns found: [('Adj Close', 'GVT&D.NS'), ('Close', 'GVT&D.NS'), ('High', 'GVT&D.NS'), ('Low', 'GVT&D.NS'), ('Open', 'GVT&D.NS'), ('Volume', 'GVT&D.NS')]. Skipping.
+2025-07-11 12:30:32,709 WARNING Missing OHLCV columns for HCLTECH.NS, columns found: [('Adj Close', 'HCLTECH.NS'), ('Close', 'HCLTECH.NS'), ('High', 'HCLTECH.NS'), ('Low', 'HCLTECH.NS'), ('Open', 'HCLTECH.NS'), ('Volume', 'HCLTECH.NS')]. Skipping.
+2025-07-11 12:30:33,310 WARNING Missing OHLCV columns for HDFCBANK.NS, columns found: [('Adj Close', 'HDFCBANK.NS'), ('Close', 'HDFCBANK.NS'), ('High', 'HDFCBANK.NS'), ('Low', 'HDFCBANK.NS'), ('Open', 'HDFCBANK.NS'), ('Volume', 'HDFCBANK.NS')]. Skipping.
+2025-07-11 12:30:33,895 WARNING Missing OHLCV columns for HDFCLIFE.NS, columns found: [('Adj Close', 'HDFCLIFE.NS'), ('Close', 'HDFCLIFE.NS'), ('High', 'HDFCLIFE.NS'), ('Low', 'HDFCLIFE.NS'), ('Open', 'HDFCLIFE.NS'), ('Volume', 'HDFCLIFE.NS')]. Skipping.
+2025-07-11 12:30:34,646 WARNING Missing OHLCV columns for HEROMOTOCO.NS, columns found: [('Adj Close', 'HEROMOTOCO.NS'), ('Close', 'HEROMOTOCO.NS'), ('High', 'HEROMOTOCO.NS'), ('Low', 'HEROMOTOCO.NS'), ('Open', 'HEROMOTOCO.NS'), ('Volume', 'HEROMOTOCO.NS')]. Skipping.
+2025-07-11 12:30:35,546 WARNING Missing OHLCV columns for HINDALCO.NS, columns found: [('Adj Close', 'HINDALCO.NS'), ('Close', 'HINDALCO.NS'), ('High', 'HINDALCO.NS'), ('Low', 'HINDALCO.NS'), ('Open', 'HINDALCO.NS'), ('Volume', 'HINDALCO.NS')]. Skipping.
+2025-07-11 12:30:36,380 WARNING Missing OHLCV columns for HINDPETRO.NS, columns found: [('Adj Close', 'HINDPETRO.NS'), ('Close', 'HINDPETRO.NS'), ('High', 'HINDPETRO.NS'), ('Low', 'HINDPETRO.NS'), ('Open', 'HINDPETRO.NS'), ('Volume', 'HINDPETRO.NS')]. Skipping.
+2025-07-11 12:30:37,276 WARNING Missing OHLCV columns for HINDUNILVR.NS, columns found: [('Adj Close', 'HINDUNILVR.NS'), ('Close', 'HINDUNILVR.NS'), ('High', 'HINDUNILVR.NS'), ('Low', 'HINDUNILVR.NS'), ('Open', 'HINDUNILVR.NS'), ('Volume', 'HINDUNILVR.NS')]. Skipping.
+2025-07-11 12:30:38,165 WARNING Missing OHLCV columns for ICICIBANK.NS, columns found: [('Adj Close', 'ICICIBANK.NS'), ('Close', 'ICICIBANK.NS'), ('High', 'ICICIBANK.NS'), ('Low', 'ICICIBANK.NS'), ('Open', 'ICICIBANK.NS'), ('Volume', 'ICICIBANK.NS')]. Skipping.
+2025-07-11 12:30:38,734 WARNING Missing OHLCV columns for IDFCFIRSTB.NS, columns found: [('Adj Close', 'IDFCFIRSTB.NS'), ('Close', 'IDFCFIRSTB.NS'), ('High', 'IDFCFIRSTB.NS'), ('Low', 'IDFCFIRSTB.NS'), ('Open', 'IDFCFIRSTB.NS'), ('Volume', 'IDFCFIRSTB.NS')]. Skipping.
+2025-07-11 12:30:39,597 WARNING Missing OHLCV columns for IGL.NS, columns found: [('Adj Close', 'IGL.NS'), ('Close', 'IGL.NS'), ('High', 'IGL.NS'), ('Low', 'IGL.NS'), ('Open', 'IGL.NS'), ('Volume', 'IGL.NS')]. Skipping.
+2025-07-11 12:30:40,200 WARNING Missing OHLCV columns for INDIANB.NS, columns found: [('Adj Close', 'INDIANB.NS'), ('Close', 'INDIANB.NS'), ('High', 'INDIANB.NS'), ('Low', 'INDIANB.NS'), ('Open', 'INDIANB.NS'), ('Volume', 'INDIANB.NS')]. Skipping.
+2025-07-11 12:30:41,073 WARNING Missing OHLCV columns for INDUSINDBK.NS, columns found: [('Adj Close', 'INDUSINDBK.NS'), ('Close', 'INDUSINDBK.NS'), ('High', 'INDUSINDBK.NS'), ('Low', 'INDUSINDBK.NS'), ('Open', 'INDUSINDBK.NS'), ('Volume', 'INDUSINDBK.NS')]. Skipping.
+2025-07-11 12:30:41,938 WARNING Missing OHLCV columns for INFY.NS, columns found: [('Adj Close', 'INFY.NS'), ('Close', 'INFY.NS'), ('High', 'INFY.NS'), ('Low', 'INFY.NS'), ('Open', 'INFY.NS'), ('Volume', 'INFY.NS')]. Skipping.
+2025-07-11 12:30:42,539 WARNING Missing OHLCV columns for INOXWIND.NS, columns found: [('Adj Close', 'INOXWIND.NS'), ('Close', 'INOXWIND.NS'), ('High', 'INOXWIND.NS'), ('Low', 'INOXWIND.NS'), ('Open', 'INOXWIND.NS'), ('Volume', 'INOXWIND.NS')]. Skipping.
+2025-07-11 12:30:43,126 WARNING Missing OHLCV columns for IOB.NS, columns found: [('Adj Close', 'IOB.NS'), ('Close', 'IOB.NS'), ('High', 'IOB.NS'), ('Low', 'IOB.NS'), ('Open', 'IOB.NS'), ('Volume', 'IOB.NS')]. Skipping.
+2025-07-11 12:30:44,010 WARNING Missing OHLCV columns for IOC.NS, columns found: [('Adj Close', 'IOC.NS'), ('Close', 'IOC.NS'), ('High', 'IOC.NS'), ('Low', 'IOC.NS'), ('Open', 'IOC.NS'), ('Volume', 'IOC.NS')]. Skipping.
+2025-07-11 12:30:44,799 WARNING Missing OHLCV columns for IPCALAB.NS, columns found: [('Adj Close', 'IPCALAB.NS'), ('Close', 'IPCALAB.NS'), ('High', 'IPCALAB.NS'), ('Low', 'IPCALAB.NS'), ('Open', 'IPCALAB.NS'), ('Volume', 'IPCALAB.NS')]. Skipping.
+2025-07-11 12:30:45,458 WARNING Missing OHLCV columns for IRCON.NS, columns found: [('Adj Close', 'IRCON.NS'), ('Close', 'IRCON.NS'), ('High', 'IRCON.NS'), ('Low', 'IRCON.NS'), ('Open', 'IRCON.NS'), ('Volume', 'IRCON.NS')]. Skipping.
+2025-07-11 12:30:46,137 WARNING Missing OHLCV columns for IRCTC.NS, columns found: [('Adj Close', 'IRCTC.NS'), ('Close', 'IRCTC.NS'), ('High', 'IRCTC.NS'), ('Low', 'IRCTC.NS'), ('Open', 'IRCTC.NS'), ('Volume', 'IRCTC.NS')]. Skipping.
+2025-07-11 12:30:46,575 WARNING Missing OHLCV columns for IRFC.NS, columns found: [('Adj Close', 'IRFC.NS'), ('Close', 'IRFC.NS'), ('High', 'IRFC.NS'), ('Low', 'IRFC.NS'), ('Open', 'IRFC.NS'), ('Volume', 'IRFC.NS')]. Skipping.
+2025-07-11 12:30:47,401 WARNING Missing OHLCV columns for ITC.NS, columns found: [('Adj Close', 'ITC.NS'), ('Close', 'ITC.NS'), ('High', 'ITC.NS'), ('Low', 'ITC.NS'), ('Open', 'ITC.NS'), ('Volume', 'ITC.NS')]. Skipping.
+2025-07-11 12:30:48,123 WARNING Missing OHLCV columns for ITI.NS, columns found: [('Adj Close', 'ITI.NS'), ('Close', 'ITI.NS'), ('High', 'ITI.NS'), ('Low', 'ITI.NS'), ('Open', 'ITI.NS'), ('Volume', 'ITI.NS')]. Skipping.
+2025-07-11 12:30:48,970 WARNING Missing OHLCV columns for JBCHEPHARM.NS, columns found: [('Adj Close', 'JBCHEPHARM.NS'), ('Close', 'JBCHEPHARM.NS'), ('High', 'JBCHEPHARM.NS'), ('Low', 'JBCHEPHARM.NS'), ('Open', 'JBCHEPHARM.NS'), ('Volume', 'JBCHEPHARM.NS')]. Skipping.
+2025-07-11 12:30:49,383 WARNING Missing OHLCV columns for JIOFIN.NS, columns found: [('Adj Close', 'JIOFIN.NS'), ('Close', 'JIOFIN.NS'), ('High', 'JIOFIN.NS'), ('Low', 'JIOFIN.NS'), ('Open', 'JIOFIN.NS'), ('Volume', 'JIOFIN.NS')]. Skipping.
+2025-07-11 12:30:50,108 WARNING Missing OHLCV columns for JPPOWER.NS, columns found: [('Adj Close', 'JPPOWER.NS'), ('Close', 'JPPOWER.NS'), ('High', 'JPPOWER.NS'), ('Low', 'JPPOWER.NS'), ('Open', 'JPPOWER.NS'), ('Volume', 'JPPOWER.NS')]. Skipping.
+2025-07-11 12:30:50,813 WARNING Missing OHLCV columns for JSWENERGY.NS, columns found: [('Adj Close', 'JSWENERGY.NS'), ('Close', 'JSWENERGY.NS'), ('High', 'JSWENERGY.NS'), ('Low', 'JSWENERGY.NS'), ('Open', 'JSWENERGY.NS'), ('Volume', 'JSWENERGY.NS')]. Skipping.
+2025-07-11 12:30:51,415 WARNING Missing OHLCV columns for JSWSTEEL.NS, columns found: [('Adj Close', 'JSWSTEEL.NS'), ('Close', 'JSWSTEEL.NS'), ('High', 'JSWSTEEL.NS'), ('Low', 'JSWSTEEL.NS'), ('Open', 'JSWSTEEL.NS'), ('Volume', 'JSWSTEEL.NS')]. Skipping.
+2025-07-11 12:30:52,253 WARNING Missing OHLCV columns for KOTAKBANK.NS, columns found: [('Adj Close', 'KOTAKBANK.NS'), ('Close', 'KOTAKBANK.NS'), ('High', 'KOTAKBANK.NS'), ('Low', 'KOTAKBANK.NS'), ('Open', 'KOTAKBANK.NS'), ('Volume', 'KOTAKBANK.NS')]. Skipping.
+2025-07-11 12:30:52,857 WARNING Missing OHLCV columns for LAURUSLABS.NS, columns found: [('Adj Close', 'LAURUSLABS.NS'), ('Close', 'LAURUSLABS.NS'), ('High', 'LAURUSLABS.NS'), ('Low', 'LAURUSLABS.NS'), ('Open', 'LAURUSLABS.NS'), ('Volume', 'LAURUSLABS.NS')]. Skipping.
+2025-07-11 12:30:53,417 WARNING Missing OHLCV columns for LODHA.NS, columns found: [('Adj Close', 'LODHA.NS'), ('Close', 'LODHA.NS'), ('High', 'LODHA.NS'), ('Low', 'LODHA.NS'), ('Open', 'LODHA.NS'), ('Volume', 'LODHA.NS')]. Skipping.
+2025-07-11 12:30:54,296 WARNING Missing OHLCV columns for LT.NS, columns found: [('Adj Close', 'LT.NS'), ('Close', 'LT.NS'), ('High', 'LT.NS'), ('Low', 'LT.NS'), ('Open', 'LT.NS'), ('Volume', 'LT.NS')]. Skipping.
+2025-07-11 12:30:54,980 WARNING Missing OHLCV columns for LTIM.NS, columns found: [('Adj Close', 'LTIM.NS'), ('Close', 'LTIM.NS'), ('High', 'LTIM.NS'), ('Low', 'LTIM.NS'), ('Open', 'LTIM.NS'), ('Volume', 'LTIM.NS')]. Skipping.
+2025-07-11 12:30:55,846 WARNING Missing OHLCV columns for LUPIN.NS, columns found: [('Adj Close', 'LUPIN.NS'), ('Close', 'LUPIN.NS'), ('High', 'LUPIN.NS'), ('Low', 'LUPIN.NS'), ('Open', 'LUPIN.NS'), ('Volume', 'LUPIN.NS')]. Skipping.
+2025-07-11 12:30:56,568 WARNING Missing OHLCV columns for M&M.NS, columns found: [('Adj Close', 'M&M.NS'), ('Close', 'M&M.NS'), ('High', 'M&M.NS'), ('Low', 'M&M.NS'), ('Open', 'M&M.NS'), ('Volume', 'M&M.NS')]. Skipping.
+2025-07-11 12:30:57,194 WARNING Missing OHLCV columns for MAHABANK.NS, columns found: [('Adj Close', 'MAHABANK.NS'), ('Close', 'MAHABANK.NS'), ('High', 'MAHABANK.NS'), ('Low', 'MAHABANK.NS'), ('Open', 'MAHABANK.NS'), ('Volume', 'MAHABANK.NS')]. Skipping.
+2025-07-11 12:30:57,621 WARNING Missing OHLCV columns for MANKIND.NS, columns found: [('Adj Close', 'MANKIND.NS'), ('Close', 'MANKIND.NS'), ('High', 'MANKIND.NS'), ('Low', 'MANKIND.NS'), ('Open', 'MANKIND.NS'), ('Volume', 'MANKIND.NS')]. Skipping.
+2025-07-11 12:30:58,537 WARNING Missing OHLCV columns for MARICO.NS, columns found: [('Adj Close', 'MARICO.NS'), ('Close', 'MARICO.NS'), ('High', 'MARICO.NS'), ('Low', 'MARICO.NS'), ('Open', 'MARICO.NS'), ('Volume', 'MARICO.NS')]. Skipping.
+2025-07-11 12:30:59,426 WARNING Missing OHLCV columns for MARUTI.NS, columns found: [('Adj Close', 'MARUTI.NS'), ('Close', 'MARUTI.NS'), ('High', 'MARUTI.NS'), ('Low', 'MARUTI.NS'), ('Open', 'MARUTI.NS'), ('Volume', 'MARUTI.NS')]. Skipping.
+2025-07-11 12:31:00,169 WARNING Missing OHLCV columns for MGL.NS, columns found: [('Adj Close', 'MGL.NS'), ('Close', 'MGL.NS'), ('High', 'MGL.NS'), ('Low', 'MGL.NS'), ('Open', 'MGL.NS'), ('Volume', 'MGL.NS')]. Skipping.
+2025-07-11 12:31:00,891 WARNING Missing OHLCV columns for MOTHERSON.NS, columns found: [('Adj Close', 'MOTHERSON.NS'), ('Close', 'MOTHERSON.NS'), ('High', 'MOTHERSON.NS'), ('Low', 'MOTHERSON.NS'), ('Open', 'MOTHERSON.NS'), ('Volume', 'MOTHERSON.NS')]. Skipping.
+2025-07-11 12:31:01,763 WARNING Missing OHLCV columns for MPHASIS.NS, columns found: [('Adj Close', 'MPHASIS.NS'), ('Close', 'MPHASIS.NS'), ('High', 'MPHASIS.NS'), ('Low', 'MPHASIS.NS'), ('Open', 'MPHASIS.NS'), ('Volume', 'MPHASIS.NS')]. Skipping.
+2025-07-11 12:31:02,651 WARNING Missing OHLCV columns for MRF.NS, columns found: [('Adj Close', 'MRF.NS'), ('Close', 'MRF.NS'), ('High', 'MRF.NS'), ('Low', 'MRF.NS'), ('Open', 'MRF.NS'), ('Volume', 'MRF.NS')]. Skipping.
+2025-07-11 12:31:03,416 WARNING Missing OHLCV columns for MRPL.NS, columns found: [('Adj Close', 'MRPL.NS'), ('Close', 'MRPL.NS'), ('High', 'MRPL.NS'), ('Low', 'MRPL.NS'), ('Open', 'MRPL.NS'), ('Volume', 'MRPL.NS')]. Skipping.
+2025-07-11 12:31:04,530 WARNING Missing OHLCV columns for NATCOPHARM.NS, columns found: [('Adj Close', 'NATCOPHARM.NS'), ('Close', 'NATCOPHARM.NS'), ('High', 'NATCOPHARM.NS'), ('Low', 'NATCOPHARM.NS'), ('Open', 'NATCOPHARM.NS'), ('Volume', 'NATCOPHARM.NS')]. Skipping.
+2025-07-11 12:31:05,155 WARNING Missing OHLCV columns for NESTLEIND.NS, columns found: [('Adj Close', 'NESTLEIND.NS'), ('Close', 'NESTLEIND.NS'), ('High', 'NESTLEIND.NS'), ('Low', 'NESTLEIND.NS'), ('Open', 'NESTLEIND.NS'), ('Volume', 'NESTLEIND.NS')]. Skipping.
+2025-07-11 12:31:05,888 WARNING Missing OHLCV columns for NHPC.NS, columns found: [('Adj Close', 'NHPC.NS'), ('Close', 'NHPC.NS'), ('High', 'NHPC.NS'), ('Low', 'NHPC.NS'), ('Open', 'NHPC.NS'), ('Volume', 'NHPC.NS')]. Skipping.
+2025-07-11 12:31:06,680 WARNING Missing OHLCV columns for NLCINDIA.NS, columns found: [('Adj Close', 'NLCINDIA.NS'), ('Close', 'NLCINDIA.NS'), ('High', 'NLCINDIA.NS'), ('Low', 'NLCINDIA.NS'), ('Open', 'NLCINDIA.NS'), ('Volume', 'NLCINDIA.NS')]. Skipping.
+2025-07-11 12:31:07,307 WARNING Missing OHLCV columns for NTPC.NS, columns found: [('Adj Close', 'NTPC.NS'), ('Close', 'NTPC.NS'), ('High', 'NTPC.NS'), ('Low', 'NTPC.NS'), ('Open', 'NTPC.NS'), ('Volume', 'NTPC.NS')]. Skipping.
+2025-07-11 12:31:08,060 WARNING Missing OHLCV columns for OBEROIRLTY.NS, columns found: [('Adj Close', 'OBEROIRLTY.NS'), ('Close', 'OBEROIRLTY.NS'), ('High', 'OBEROIRLTY.NS'), ('Low', 'OBEROIRLTY.NS'), ('Open', 'OBEROIRLTY.NS'), ('Volume', 'OBEROIRLTY.NS')]. Skipping.
+2025-07-11 12:31:08,682 WARNING Missing OHLCV columns for OFSS.NS, columns found: [('Adj Close', 'OFSS.NS'), ('Close', 'OFSS.NS'), ('High', 'OFSS.NS'), ('Low', 'OFSS.NS'), ('Open', 'OFSS.NS'), ('Volume', 'OFSS.NS')]. Skipping.
+2025-07-11 12:31:09,499 WARNING Missing OHLCV columns for OIL.NS, columns found: [('Adj Close', 'OIL.NS'), ('Close', 'OIL.NS'), ('High', 'OIL.NS'), ('Low', 'OIL.NS'), ('Open', 'OIL.NS'), ('Volume', 'OIL.NS')]. Skipping.
+2025-07-11 12:31:10,423 WARNING Missing OHLCV columns for ONGC.NS, columns found: [('Adj Close', 'ONGC.NS'), ('Close', 'ONGC.NS'), ('High', 'ONGC.NS'), ('Low', 'ONGC.NS'), ('Open', 'ONGC.NS'), ('Volume', 'ONGC.NS')]. Skipping.
+2025-07-11 12:31:11,120 WARNING Missing OHLCV columns for PATANJALI.NS, columns found: [('Adj Close', 'PATANJALI.NS'), ('Close', 'PATANJALI.NS'), ('High', 'PATANJALI.NS'), ('Low', 'PATANJALI.NS'), ('Open', 'PATANJALI.NS'), ('Volume', 'PATANJALI.NS')]. Skipping.
+2025-07-11 12:31:11,933 WARNING Missing OHLCV columns for PERSISTENT.NS, columns found: [('Adj Close', 'PERSISTENT.NS'), ('Close', 'PERSISTENT.NS'), ('High', 'PERSISTENT.NS'), ('Low', 'PERSISTENT.NS'), ('Open', 'PERSISTENT.NS'), ('Volume', 'PERSISTENT.NS')]. Skipping.
+2025-07-11 12:31:12,759 WARNING Missing OHLCV columns for PETRONET.NS, columns found: [('Adj Close', 'PETRONET.NS'), ('Close', 'PETRONET.NS'), ('High', 'PETRONET.NS'), ('Low', 'PETRONET.NS'), ('Open', 'PETRONET.NS'), ('Volume', 'PETRONET.NS')]. Skipping.
+2025-07-11 12:31:13,584 WARNING Missing OHLCV columns for PHOENIXLTD.NS, columns found: [('Adj Close', 'PHOENIXLTD.NS'), ('Close', 'PHOENIXLTD.NS'), ('High', 'PHOENIXLTD.NS'), ('Low', 'PHOENIXLTD.NS'), ('Open', 'PHOENIXLTD.NS'), ('Volume', 'PHOENIXLTD.NS')]. Skipping.
+2025-07-11 12:31:14,469 WARNING Missing OHLCV columns for PNB.NS, columns found: [('Adj Close', 'PNB.NS'), ('Close', 'PNB.NS'), ('High', 'PNB.NS'), ('Low', 'PNB.NS'), ('Open', 'PNB.NS'), ('Volume', 'PNB.NS')]. Skipping.
+2025-07-11 12:31:15,301 WARNING Missing OHLCV columns for POWERGRID.NS, columns found: [('Adj Close', 'POWERGRID.NS'), ('Close', 'POWERGRID.NS'), ('High', 'POWERGRID.NS'), ('Low', 'POWERGRID.NS'), ('Open', 'POWERGRID.NS'), ('Volume', 'POWERGRID.NS')]. Skipping.
+2025-07-11 12:31:15,863 WARNING Missing OHLCV columns for POWERINDIA.NS, columns found: [('Adj Close', 'POWERINDIA.NS'), ('Close', 'POWERINDIA.NS'), ('High', 'POWERINDIA.NS'), ('Low', 'POWERINDIA.NS'), ('Open', 'POWERINDIA.NS'), ('Volume', 'POWERINDIA.NS')]. Skipping.
+2025-07-11 12:31:16,431 WARNING Missing OHLCV columns for PRESTIGE.NS, columns found: [('Adj Close', 'PRESTIGE.NS'), ('Close', 'PRESTIGE.NS'), ('High', 'PRESTIGE.NS'), ('Low', 'PRESTIGE.NS'), ('Open', 'PRESTIGE.NS'), ('Volume', 'PRESTIGE.NS')]. Skipping.
+2025-07-11 12:31:17,036 WARNING Missing OHLCV columns for PSB.NS, columns found: [('Adj Close', 'PSB.NS'), ('Close', 'PSB.NS'), ('High', 'PSB.NS'), ('Low', 'PSB.NS'), ('Open', 'PSB.NS'), ('Volume', 'PSB.NS')]. Skipping.
+2025-07-11 12:31:17,806 WARNING Missing OHLCV columns for RADICO.NS, columns found: [('Adj Close', 'RADICO.NS'), ('Close', 'RADICO.NS'), ('High', 'RADICO.NS'), ('Low', 'RADICO.NS'), ('Open', 'RADICO.NS'), ('Volume', 'RADICO.NS')]. Skipping.
+2025-07-11 12:31:18,256 WARNING Missing OHLCV columns for RAILTEL.NS, columns found: [('Adj Close', 'RAILTEL.NS'), ('Close', 'RAILTEL.NS'), ('High', 'RAILTEL.NS'), ('Low', 'RAILTEL.NS'), ('Open', 'RAILTEL.NS'), ('Volume', 'RAILTEL.NS')]. Skipping.
+2025-07-11 12:31:19,100 WARNING Missing OHLCV columns for RAYMOND.NS, columns found: [('Adj Close', 'RAYMOND.NS'), ('Close', 'RAYMOND.NS'), ('High', 'RAYMOND.NS'), ('Low', 'RAYMOND.NS'), ('Open', 'RAYMOND.NS'), ('Volume', 'RAYMOND.NS')]. Skipping.
+2025-07-11 12:31:19,997 WARNING Missing OHLCV columns for RELIANCE.NS, columns found: [('Adj Close', 'RELIANCE.NS'), ('Close', 'RELIANCE.NS'), ('High', 'RELIANCE.NS'), ('Low', 'RELIANCE.NS'), ('Open', 'RELIANCE.NS'), ('Volume', 'RELIANCE.NS')]. Skipping.
+2025-07-11 12:31:20,450 WARNING Missing OHLCV columns for RITES.NS, columns found: [('Adj Close', 'RITES.NS'), ('Close', 'RITES.NS'), ('High', 'RITES.NS'), ('Low', 'RITES.NS'), ('Open', 'RITES.NS'), ('Volume', 'RITES.NS')]. Skipping.
+2025-07-11 12:31:21,043 WARNING Missing OHLCV columns for RPOWER.NS, columns found: [('Adj Close', 'RPOWER.NS'), ('Close', 'RPOWER.NS'), ('High', 'RPOWER.NS'), ('Low', 'RPOWER.NS'), ('Open', 'RPOWER.NS'), ('Volume', 'RPOWER.NS')]. Skipping.
+2025-07-11 12:31:21,725 WARNING Missing OHLCV columns for RVNL.NS, columns found: [('Adj Close', 'RVNL.NS'), ('Close', 'RVNL.NS'), ('High', 'RVNL.NS'), ('Low', 'RVNL.NS'), ('Open', 'RVNL.NS'), ('Volume', 'RVNL.NS')]. Skipping.
+2025-07-11 12:31:22,434 WARNING Missing OHLCV columns for SAIL.NS, columns found: [('Adj Close', 'SAIL.NS'), ('Close', 'SAIL.NS'), ('High', 'SAIL.NS'), ('Low', 'SAIL.NS'), ('Open', 'SAIL.NS'), ('Volume', 'SAIL.NS')]. Skipping.
+2025-07-11 12:31:23,128 WARNING Missing OHLCV columns for SBILIFE.NS, columns found: [('Adj Close', 'SBILIFE.NS'), ('Close', 'SBILIFE.NS'), ('High', 'SBILIFE.NS'), ('Low', 'SBILIFE.NS'), ('Open', 'SBILIFE.NS'), ('Volume', 'SBILIFE.NS')]. Skipping.
+2025-07-11 12:31:23,743 WARNING Missing OHLCV columns for SBIN.NS, columns found: [('Adj Close', 'SBIN.NS'), ('Close', 'SBIN.NS'), ('High', 'SBIN.NS'), ('Low', 'SBIN.NS'), ('Open', 'SBIN.NS'), ('Volume', 'SBIN.NS')]. Skipping.
+2025-07-11 12:31:24,654 WARNING Missing OHLCV columns for SHRIRAMFIN.NS, columns found: [('Adj Close', 'SHRIRAMFIN.NS'), ('Close', 'SHRIRAMFIN.NS'), ('High', 'SHRIRAMFIN.NS'), ('Low', 'SHRIRAMFIN.NS'), ('Open', 'SHRIRAMFIN.NS'), ('Volume', 'SHRIRAMFIN.NS')]. Skipping.
+2025-07-11 12:31:25,474 WARNING Missing OHLCV columns for SIEMENS.NS, columns found: [('Adj Close', 'SIEMENS.NS'), ('Close', 'SIEMENS.NS'), ('High', 'SIEMENS.NS'), ('Low', 'SIEMENS.NS'), ('Open', 'SIEMENS.NS'), ('Volume', 'SIEMENS.NS')]. Skipping.
+2025-07-11 12:31:26,192 WARNING Missing OHLCV columns for SJVN.NS, columns found: [('Adj Close', 'SJVN.NS'), ('Close', 'SJVN.NS'), ('High', 'SJVN.NS'), ('Low', 'SJVN.NS'), ('Open', 'SJVN.NS'), ('Volume', 'SJVN.NS')]. Skipping.
+2025-07-11 12:31:26,810 WARNING Missing OHLCV columns for SOBHA.NS, columns found: [('Adj Close', 'SOBHA.NS'), ('Close', 'SOBHA.NS'), ('High', 'SOBHA.NS'), ('Low', 'SOBHA.NS'), ('Open', 'SOBHA.NS'), ('Volume', 'SOBHA.NS')]. Skipping.
+2025-07-11 12:31:27,726 WARNING Missing OHLCV columns for SUNPHARMA.NS, columns found: [('Adj Close', 'SUNPHARMA.NS'), ('Close', 'SUNPHARMA.NS'), ('High', 'SUNPHARMA.NS'), ('Low', 'SUNPHARMA.NS'), ('Open', 'SUNPHARMA.NS'), ('Volume', 'SUNPHARMA.NS')]. Skipping.
+2025-07-11 12:31:28,322 WARNING Missing OHLCV columns for SUZLON.NS, columns found: [('Adj Close', 'SUZLON.NS'), ('Close', 'SUZLON.NS'), ('High', 'SUZLON.NS'), ('Low', 'SUZLON.NS'), ('Open', 'SUZLON.NS'), ('Volume', 'SUZLON.NS')]. Skipping.
+2025-07-11 12:31:29,175 WARNING Missing OHLCV columns for TATACONSUM.NS, columns found: [('Adj Close', 'TATACONSUM.NS'), ('Close', 'TATACONSUM.NS'), ('High', 'TATACONSUM.NS'), ('Low', 'TATACONSUM.NS'), ('Open', 'TATACONSUM.NS'), ('Volume', 'TATACONSUM.NS')]. Skipping.
+2025-07-11 12:31:30,078 WARNING Missing OHLCV columns for TATAMOTORS.NS, columns found: [('Adj Close', 'TATAMOTORS.NS'), ('Close', 'TATAMOTORS.NS'), ('High', 'TATAMOTORS.NS'), ('Low', 'TATAMOTORS.NS'), ('Open', 'TATAMOTORS.NS'), ('Volume', 'TATAMOTORS.NS')]. Skipping.
+2025-07-11 12:31:30,941 WARNING Missing OHLCV columns for TATAPOWER.NS, columns found: [('Adj Close', 'TATAPOWER.NS'), ('Close', 'TATAPOWER.NS'), ('High', 'TATAPOWER.NS'), ('Low', 'TATAPOWER.NS'), ('Open', 'TATAPOWER.NS'), ('Volume', 'TATAPOWER.NS')]. Skipping.
+2025-07-11 12:31:31,753 WARNING Missing OHLCV columns for TATASTEEL.NS, columns found: [('Adj Close', 'TATASTEEL.NS'), ('Close', 'TATASTEEL.NS'), ('High', 'TATASTEEL.NS'), ('Low', 'TATASTEEL.NS'), ('Open', 'TATASTEEL.NS'), ('Volume', 'TATASTEEL.NS')]. Skipping.
+2025-07-11 12:31:32,653 WARNING Missing OHLCV columns for TCS.NS, columns found: [('Adj Close', 'TCS.NS'), ('Close', 'TCS.NS'), ('High', 'TCS.NS'), ('Low', 'TCS.NS'), ('Open', 'TCS.NS'), ('Volume', 'TCS.NS')]. Skipping.
+2025-07-11 12:31:33,526 WARNING Missing OHLCV columns for TECHM.NS, columns found: [('Adj Close', 'TECHM.NS'), ('Close', 'TECHM.NS'), ('High', 'TECHM.NS'), ('Low', 'TECHM.NS'), ('Open', 'TECHM.NS'), ('Volume', 'TECHM.NS')]. Skipping.
+2025-07-11 12:31:34,379 WARNING Missing OHLCV columns for THERMAX.NS, columns found: [('Adj Close', 'THERMAX.NS'), ('Close', 'THERMAX.NS'), ('High', 'THERMAX.NS'), ('Low', 'THERMAX.NS'), ('Open', 'THERMAX.NS'), ('Volume', 'THERMAX.NS')]. Skipping.
+2025-07-11 12:31:35,071 WARNING Missing OHLCV columns for TIINDIA.NS, columns found: [('Adj Close', 'TIINDIA.NS'), ('Close', 'TIINDIA.NS'), ('High', 'TIINDIA.NS'), ('Low', 'TIINDIA.NS'), ('Open', 'TIINDIA.NS'), ('Volume', 'TIINDIA.NS')]. Skipping.
+2025-07-11 12:31:35,953 WARNING Missing OHLCV columns for TITAN.NS, columns found: [('Adj Close', 'TITAN.NS'), ('Close', 'TITAN.NS'), ('High', 'TITAN.NS'), ('Low', 'TITAN.NS'), ('Open', 'TITAN.NS'), ('Volume', 'TITAN.NS')]. Skipping.
+2025-07-11 12:31:36,799 WARNING Missing OHLCV columns for TORNTPHARM.NS, columns found: [('Adj Close', 'TORNTPHARM.NS'), ('Close', 'TORNTPHARM.NS'), ('High', 'TORNTPHARM.NS'), ('Low', 'TORNTPHARM.NS'), ('Open', 'TORNTPHARM.NS'), ('Volume', 'TORNTPHARM.NS')]. Skipping.
+2025-07-11 12:31:37,627 WARNING Missing OHLCV columns for TORNTPOWER.NS, columns found: [('Adj Close', 'TORNTPOWER.NS'), ('Close', 'TORNTPOWER.NS'), ('High', 'TORNTPOWER.NS'), ('Low', 'TORNTPOWER.NS'), ('Open', 'TORNTPOWER.NS'), ('Volume', 'TORNTPOWER.NS')]. Skipping.
+2025-07-11 12:31:38,561 WARNING Missing OHLCV columns for TRENT.NS, columns found: [('Adj Close', 'TRENT.NS'), ('Close', 'TRENT.NS'), ('High', 'TRENT.NS'), ('Low', 'TRENT.NS'), ('Open', 'TRENT.NS'), ('Volume', 'TRENT.NS')]. Skipping.
+2025-07-11 12:31:39,304 WARNING Missing OHLCV columns for TRITURBINE.NS, columns found: [('Adj Close', 'TRITURBINE.NS'), ('Close', 'TRITURBINE.NS'), ('High', 'TRITURBINE.NS'), ('Low', 'TRITURBINE.NS'), ('Open', 'TRITURBINE.NS'), ('Volume', 'TRITURBINE.NS')]. Skipping.
+2025-07-11 12:31:40,206 WARNING Missing OHLCV columns for TVSMOTOR.NS, columns found: [('Adj Close', 'TVSMOTOR.NS'), ('Close', 'TVSMOTOR.NS'), ('High', 'TVSMOTOR.NS'), ('Low', 'TVSMOTOR.NS'), ('Open', 'TVSMOTOR.NS'), ('Volume', 'TVSMOTOR.NS')]. Skipping.
+2025-07-11 12:31:40,907 WARNING Missing OHLCV columns for UBL.NS, columns found: [('Adj Close', 'UBL.NS'), ('Close', 'UBL.NS'), ('High', 'UBL.NS'), ('Low', 'UBL.NS'), ('Open', 'UBL.NS'), ('Volume', 'UBL.NS')]. Skipping.
+2025-07-11 12:31:41,686 WARNING Missing OHLCV columns for UCOBANK.NS, columns found: [('Adj Close', 'UCOBANK.NS'), ('Close', 'UCOBANK.NS'), ('High', 'UCOBANK.NS'), ('Low', 'UCOBANK.NS'), ('Open', 'UCOBANK.NS'), ('Volume', 'UCOBANK.NS')]. Skipping.
+2025-07-11 12:31:42,547 WARNING Missing OHLCV columns for ULTRACEMCO.NS, columns found: [('Adj Close', 'ULTRACEMCO.NS'), ('Close', 'ULTRACEMCO.NS'), ('High', 'ULTRACEMCO.NS'), ('Low', 'ULTRACEMCO.NS'), ('Open', 'ULTRACEMCO.NS'), ('Volume', 'ULTRACEMCO.NS')]. Skipping.
+2025-07-11 12:31:43,149 WARNING Missing OHLCV columns for UNIONBANK.NS, columns found: [('Adj Close', 'UNIONBANK.NS'), ('Close', 'UNIONBANK.NS'), ('High', 'UNIONBANK.NS'), ('Low', 'UNIONBANK.NS'), ('Open', 'UNIONBANK.NS'), ('Volume', 'UNIONBANK.NS')]. Skipping.
+2025-07-11 12:31:43,578 WARNING Missing OHLCV columns for UNITDSPR.NS, columns found: [('Adj Close', 'UNITDSPR.NS'), ('Close', 'UNITDSPR.NS'), ('High', 'UNITDSPR.NS'), ('Low', 'UNITDSPR.NS'), ('Open', 'UNITDSPR.NS'), ('Volume', 'UNITDSPR.NS')]. Skipping.
+2025-07-11 12:31:44,307 WARNING Missing OHLCV columns for VBL.NS, columns found: [('Adj Close', 'VBL.NS'), ('Close', 'VBL.NS'), ('High', 'VBL.NS'), ('Low', 'VBL.NS'), ('Open', 'VBL.NS'), ('Volume', 'VBL.NS')]. Skipping.
+2025-07-11 12:31:45,225 WARNING Missing OHLCV columns for WIPRO.NS, columns found: [('Adj Close', 'WIPRO.NS'), ('Close', 'WIPRO.NS'), ('High', 'WIPRO.NS'), ('Low', 'WIPRO.NS'), ('Open', 'WIPRO.NS'), ('Volume', 'WIPRO.NS')]. Skipping.
+2025-07-11 12:31:45,861 WARNING Missing OHLCV columns for ZYDUSLIFE.NS, columns found: [('Adj Close', 'ZYDUSLIFE.NS'), ('Close', 'ZYDUSLIFE.NS'), ('High', 'ZYDUSLIFE.NS'), ('Low', 'ZYDUSLIFE.NS'), ('Open', 'ZYDUSLIFE.NS'), ('Volume', 'ZYDUSLIFE.NS')]. Skipping.
+2025-07-11 12:31:45,861 INFO Pattern scan start: 2025-07-11 14:01 IST
+2025-07-11 12:31:54,128 WARNING Could not load sector Financial Services: HTTP Error 404: Not Found
+2025-07-11 12:31:55,436 WARNING Could not load sector Infrastructure: HTTP Error 404: Not Found
+2025-07-11 12:31:55,614 WARNING Could not load sector Cement: HTTP Error 404: Not Found
+2025-07-11 12:31:55,773 WARNING Could not load sector Railway: HTTP Error 404: Not Found
+2025-07-11 12:31:55,925 WARNING Could not load sector Defence: HTTP Error 404: Not Found
+2025-07-11 12:31:57,834 INFO Pattern scan start: 2025-07-11 14:01 IST
+2025-07-11 12:31:59,069 WARNING Skipping ABB.NS: no data or missing OHLCV columns.
+2025-07-11 12:31:59,818 WARNING Skipping ABBOTINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:00,211 WARNING Skipping ADANIENSOL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:00,900 WARNING Skipping ADANIENT.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:01,454 WARNING Skipping ADANIGREEN.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:02,362 WARNING Skipping ADANIPORTS.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:03,083 WARNING Skipping ADANIPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:03,485 WARNING Skipping AEGISLOG.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:04,376 WARNING Skipping AJANTPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:05,081 WARNING Skipping ALKEM.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:05,968 WARNING Skipping ANANTRAJ.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:06,765 WARNING Skipping APOLLOHOSP.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:07,414 WARNING Skipping ASHOKLEY.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:08,309 WARNING Skipping ASIANPAINT.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:09,028 WARNING Skipping ATGL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:09,615 WARNING Skipping AUBANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:10,504 WARNING Skipping AUROPHARMA.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:11,422 WARNING Skipping AXISBANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:12,148 WARNING Skipping BAJAJ-AUTO.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:12,743 WARNING Skipping BAJAJFINSV.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:13,591 WARNING Skipping BAJFINANCE.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:14,463 WARNING Skipping BALKRISIND.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:15,361 WARNING Skipping BANKBARODA.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:16,023 WARNING Skipping BANKINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:16,784 WARNING Skipping BEL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:17,579 WARNING Skipping BEML.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:18,092 WARNING Skipping BHARATFORG.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:18,984 WARNING Skipping BHARTIARTL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:19,485 WARNING Skipping BHEL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:20,393 WARNING Skipping BIOCON.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:21,126 WARNING Skipping BOSCHLTD.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:21,963 WARNING Skipping BPCL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:22,556 WARNING Skipping BRIGADE.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:23,292 WARNING Skipping BRITANNIA.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:23,915 WARNING Skipping CANBK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:24,784 WARNING Skipping CASTROLIND.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:25,615 WARNING Skipping CENTRALBK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:26,472 WARNING Skipping CESC.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:27,105 WARNING Skipping CGPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:27,995 WARNING Skipping CIPLA.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:28,596 WARNING Skipping COALINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:29,468 WARNING Skipping COFORGE.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:30,320 WARNING Skipping COLPAL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:31,207 WARNING Skipping CONCOR.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:32,138 WARNING Skipping DABUR.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:33,028 WARNING Skipping DIVISLAB.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:33,884 WARNING Skipping DLF.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:34,788 WARNING Skipping DRREDDY.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:35,698 WARNING Skipping EICHERMOT.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:36,306 WARNING Skipping EMAMILTD.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:36,709 WARNING Skipping ETERNAL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:37,554 WARNING Skipping EXIDEIND.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:38,276 WARNING Skipping FEDERALBNK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:38,760 WARNING Skipping GAIL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:39,316 WARNING Skipping GLAND.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:40,130 WARNING Skipping GLENMARK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:40,894 WARNING Skipping GODREJCP.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:41,705 WARNING Skipping GODREJPROP.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:42,311 WARNING Skipping GRANULES.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:43,202 WARNING Skipping GRASIM.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:43,945 WARNING Skipping GSPL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:44,655 WARNING Skipping GUJGASLTD.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:45,358 WARNING Skipping GVT&D.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:45,963 WARNING Skipping HCLTECH.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:46,888 WARNING Skipping HDFCBANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:47,610 WARNING Skipping HDFCLIFE.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:48,375 WARNING Skipping HEROMOTOCO.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:49,213 WARNING Skipping HINDALCO.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:49,981 WARNING Skipping HINDPETRO.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:50,618 WARNING Skipping HINDUNILVR.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:51,373 WARNING Skipping ICICIBANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:52,071 WARNING Skipping IDFCFIRSTB.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:52,956 WARNING Skipping IGL.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:53,566 WARNING Skipping INDIANB.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:54,419 WARNING Skipping INDUSINDBK.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:55,324 WARNING Skipping INFY.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:55,918 WARNING Skipping INOXWIND.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:56,676 WARNING Skipping IOB.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:57,447 WARNING Skipping IOC.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:58,344 WARNING Skipping IPCALAB.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:58,817 WARNING Skipping IRCON.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:59,257 WARNING Skipping IRCTC.NS: no data or missing OHLCV columns.
+2025-07-11 12:32:59,808 WARNING Skipping IRFC.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:00,684 WARNING Skipping ITC.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:01,376 WARNING Skipping ITI.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:02,250 WARNING Skipping JBCHEPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:02,659 WARNING Skipping JIOFIN.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:03,244 WARNING Skipping JPPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:03,963 WARNING Skipping JSWENERGY.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:04,835 WARNING Skipping JSWSTEEL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:05,722 WARNING Skipping KOTAKBANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:06,421 WARNING Skipping LAURUSLABS.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:06,962 WARNING Skipping LODHA.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:07,730 WARNING Skipping LT.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:08,432 WARNING Skipping LTIM.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:09,329 WARNING Skipping LUPIN.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:10,228 WARNING Skipping M&M.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:10,976 WARNING Skipping MAHABANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:11,508 WARNING Skipping MANKIND.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:12,429 WARNING Skipping MARICO.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:13,317 WARNING Skipping MARUTI.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:14,221 WARNING Skipping MGL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:14,919 WARNING Skipping MOTHERSON.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:15,683 WARNING Skipping MPHASIS.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:16,388 WARNING Skipping MRF.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:17,150 WARNING Skipping MRPL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:17,929 WARNING Skipping NATCOPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:18,782 WARNING Skipping NESTLEIND.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:19,393 WARNING Skipping NHPC.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:20,145 WARNING Skipping NLCINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:21,031 WARNING Skipping NTPC.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:21,816 WARNING Skipping OBEROIRLTY.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:22,586 WARNING Skipping OFSS.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:23,213 WARNING Skipping OIL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:24,088 WARNING Skipping ONGC.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:24,866 WARNING Skipping PATANJALI.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:25,721 WARNING Skipping PERSISTENT.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:26,333 WARNING Skipping PETRONET.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:27,166 WARNING Skipping PHOENIXLTD.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:28,021 WARNING Skipping PNB.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:28,592 WARNING Skipping POWERGRID.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:29,012 WARNING Skipping POWERINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:29,714 WARNING Skipping PRESTIGE.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:30,423 WARNING Skipping PSB.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:31,139 WARNING Skipping RADICO.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:31,598 WARNING Skipping RAILTEL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:32,318 WARNING Skipping RAYMOND.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:33,166 WARNING Skipping RELIANCE.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:33,742 WARNING Skipping RITES.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:34,430 WARNING Skipping RPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:35,132 WARNING Skipping RVNL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:35,931 WARNING Skipping SAIL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:36,610 WARNING Skipping SBILIFE.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:37,471 WARNING Skipping SBIN.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:38,378 WARNING Skipping SHRIRAMFIN.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:39,276 WARNING Skipping SIEMENS.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:40,040 WARNING Skipping SJVN.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:40,690 WARNING Skipping SOBHA.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:41,470 WARNING Skipping SUNPHARMA.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:42,181 WARNING Skipping SUZLON.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:43,083 WARNING Skipping TATACONSUM.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:43,939 WARNING Skipping TATAMOTORS.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:44,838 WARNING Skipping TATAPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:45,676 WARNING Skipping TATASTEEL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:46,432 WARNING Skipping TCS.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:47,306 WARNING Skipping TECHM.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:48,153 WARNING Skipping THERMAX.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:48,866 WARNING Skipping TIINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:49,614 WARNING Skipping TITAN.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:50,452 WARNING Skipping TORNTPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:51,190 WARNING Skipping TORNTPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:52,069 WARNING Skipping TRENT.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:52,805 WARNING Skipping TRITURBINE.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:53,410 WARNING Skipping TVSMOTOR.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:54,236 WARNING Skipping UBL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:54,959 WARNING Skipping UCOBANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:55,836 WARNING Skipping ULTRACEMCO.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:56,709 WARNING Skipping UNIONBANK.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:57,121 WARNING Skipping UNITDSPR.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:57,711 WARNING Skipping VBL.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:58,596 WARNING Skipping WIPRO.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:59,476 WARNING Skipping ZYDUSLIFE.NS: no data or missing OHLCV columns.
+2025-07-11 12:33:59,476 INFO No candidates.
+2025-07-11 13:45:00,517 INFO Pattern scan start: 2025-07-11 15:15 IST
+2025-07-11 13:45:01,280 WARNING Skipping ABB.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:02,047 WARNING Skipping ABBOTINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:02,507 WARNING Skipping ADANIENSOL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:03,433 WARNING Skipping ADANIENT.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:03,996 WARNING Skipping ADANIGREEN.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:04,822 WARNING Skipping ADANIPORTS.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:05,545 WARNING Skipping ADANIPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:05,955 WARNING Skipping AEGISLOG.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:06,807 WARNING Skipping AJANTPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:07,507 WARNING Skipping ALKEM.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:08,395 WARNING Skipping ANANTRAJ.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:09,273 WARNING Skipping APOLLOHOSP.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:10,193 WARNING Skipping ASHOKLEY.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:10,804 WARNING Skipping ASIANPAINT.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:11,774 WARNING Skipping ATGL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:12,453 WARNING Skipping AUBANK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:13,193 WARNING Skipping AUROPHARMA.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:14,042 WARNING Skipping AXISBANK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:14,764 WARNING Skipping BAJAJ-AUTO.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:15,604 WARNING Skipping BAJAJFINSV.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:16,513 WARNING Skipping BAJFINANCE.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:17,414 WARNING Skipping BALKRISIND.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:18,321 WARNING Skipping BANKBARODA.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:19,182 WARNING Skipping BANKINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:20,108 WARNING Skipping BEL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:20,935 WARNING Skipping BEML.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:21,526 WARNING Skipping BHARATFORG.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:22,336 WARNING Skipping BHARTIARTL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:22,951 WARNING Skipping BHEL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:23,551 WARNING Skipping BIOCON.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:24,422 WARNING Skipping BOSCHLTD.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:25,180 WARNING Skipping BPCL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:25,804 WARNING Skipping BRIGADE.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:26,682 WARNING Skipping BRITANNIA.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:27,575 WARNING Skipping CANBK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:28,192 WARNING Skipping CASTROLIND.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:28,946 WARNING Skipping CENTRALBK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:29,782 WARNING Skipping CESC.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:30,657 WARNING Skipping CGPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:31,503 WARNING Skipping CIPLA.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:32,076 WARNING Skipping COALINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:32,953 WARNING Skipping COFORGE.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:33,722 WARNING Skipping COLPAL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:34,628 WARNING Skipping CONCOR.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:35,496 WARNING Skipping DABUR.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:36,385 WARNING Skipping DIVISLAB.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:37,241 WARNING Skipping DLF.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:38,126 WARNING Skipping DRREDDY.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:38,888 WARNING Skipping EICHERMOT.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:39,748 WARNING Skipping EMAMILTD.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:40,159 WARNING Skipping ETERNAL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:41,051 WARNING Skipping EXIDEIND.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:41,905 WARNING Skipping FEDERALBNK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:42,529 WARNING Skipping GAIL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:43,103 WARNING Skipping GLAND.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:43,858 WARNING Skipping GLENMARK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:44,756 WARNING Skipping GODREJCP.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:45,566 WARNING Skipping GODREJPROP.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:46,420 WARNING Skipping GRANULES.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:47,261 WARNING Skipping GRASIM.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:48,020 WARNING Skipping GSPL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:48,766 WARNING Skipping GUJGASLTD.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:49,557 WARNING Skipping GVT&D.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:50,458 WARNING Skipping HCLTECH.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:51,286 WARNING Skipping HDFCBANK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:51,863 WARNING Skipping HDFCLIFE.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:52,730 WARNING Skipping HEROMOTOCO.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:53,612 WARNING Skipping HINDALCO.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:54,251 WARNING Skipping HINDPETRO.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:55,134 WARNING Skipping HINDUNILVR.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:55,922 WARNING Skipping ICICIBANK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:56,648 WARNING Skipping IDFCFIRSTB.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:57,412 WARNING Skipping IGL.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:58,287 WARNING Skipping INDIANB.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:59,042 WARNING Skipping INDUSINDBK.NS: no data or missing OHLCV columns.
+2025-07-11 13:45:59,685 WARNING Skipping INFY.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:00,367 WARNING Skipping INOXWIND.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:00,941 WARNING Skipping IOB.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:01,792 WARNING Skipping IOC.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:02,658 WARNING Skipping IPCALAB.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:03,244 WARNING Skipping IRCON.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:03,818 WARNING Skipping IRCTC.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:04,387 WARNING Skipping IRFC.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:05,308 WARNING Skipping ITC.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:06,059 WARNING Skipping ITI.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:06,663 WARNING Skipping JBCHEPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:07,067 WARNING Skipping JIOFIN.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:07,751 WARNING Skipping JPPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:08,498 WARNING Skipping JSWENERGY.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:09,213 WARNING Skipping JSWSTEEL.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:10,108 WARNING Skipping KOTAKBANK.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:10,583 WARNING Skipping LAURUSLABS.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:11,034 WARNING Skipping LODHA.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:11,931 WARNING Skipping LT.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:12,659 WARNING Skipping LTIM.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:13,493 WARNING Skipping LUPIN.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:14,102 WARNING Skipping M&M.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:14,817 WARNING Skipping MAHABANK.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:15,394 WARNING Skipping MANKIND.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:16,246 WARNING Skipping MARICO.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:16,847 WARNING Skipping MARUTI.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:17,597 WARNING Skipping MGL.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:18,480 WARNING Skipping MOTHERSON.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:19,321 WARNING Skipping MPHASIS.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:20,016 WARNING Skipping MRF.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:20,803 WARNING Skipping MRPL.NS: no data or missing OHLCV columns.
+2025-07-11 13:46:21,684 WARNING Skipping NATCOPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 14:02:32,506 ERROR 
+1 Failed download:
+2025-07-11 14:02:32,506 ERROR ['NESTLEIND.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 970796 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:02:32,508 WARNING Skipping NESTLEIND.NS: no data or missing OHLCV columns.
+2025-07-11 14:02:33,789 WARNING Skipping NHPC.NS: no data or missing OHLCV columns.
+2025-07-11 14:02:34,268 WARNING Skipping NLCINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 14:02:35,104 WARNING Skipping NTPC.NS: no data or missing OHLCV columns.
+2025-07-11 14:02:35,810 WARNING Skipping OBEROIRLTY.NS: no data or missing OHLCV columns.
+2025-07-11 14:02:36,505 WARNING Skipping OFSS.NS: no data or missing OHLCV columns.
+2025-07-11 14:02:37,062 WARNING Skipping OIL.NS: no data or missing OHLCV columns.
+2025-07-11 14:18:31,210 ERROR 
+1 Failed download:
+2025-07-11 14:18:31,210 ERROR ['ONGC.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 954118 milliseconds with 10404 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:18:31,212 WARNING Skipping ONGC.NS: no data or missing OHLCV columns.
+2025-07-11 14:18:31,965 WARNING Skipping PATANJALI.NS: no data or missing OHLCV columns.
+2025-07-11 14:18:32,784 WARNING Skipping PERSISTENT.NS: no data or missing OHLCV columns.
+2025-07-11 14:18:33,647 WARNING Skipping PETRONET.NS: no data or missing OHLCV columns.
+2025-07-11 14:18:34,474 WARNING Skipping PHOENIXLTD.NS: no data or missing OHLCV columns.
+2025-07-11 14:18:35,349 WARNING Skipping PNB.NS: no data or missing OHLCV columns.
+2025-07-11 14:35:18,007 ERROR 
+1 Failed download:
+2025-07-11 14:35:18,008 ERROR ['POWERGRID.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1002629 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:35:18,011 WARNING Skipping POWERGRID.NS: no data or missing OHLCV columns.
+2025-07-11 14:35:18,587 WARNING Skipping POWERINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 14:35:19,306 WARNING Skipping PRESTIGE.NS: no data or missing OHLCV columns.
+2025-07-11 14:35:20,021 WARNING Skipping PSB.NS: no data or missing OHLCV columns.
+2025-07-11 14:35:20,755 WARNING Skipping RADICO.NS: no data or missing OHLCV columns.
+2025-07-11 14:35:21,301 WARNING Skipping RAILTEL.NS: no data or missing OHLCV columns.
+2025-07-11 14:35:22,010 WARNING Skipping RAYMOND.NS: no data or missing OHLCV columns.
+2025-07-11 14:51:46,191 ERROR 
+1 Failed download:
+2025-07-11 14:51:46,191 ERROR ['RELIANCE.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 984157 milliseconds with 113884 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 14:51:46,193 WARNING Skipping RELIANCE.NS: no data or missing OHLCV columns.
+2025-07-11 14:51:47,127 WARNING Skipping RITES.NS: no data or missing OHLCV columns.
+2025-07-11 14:51:47,833 WARNING Skipping RPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 14:51:48,495 WARNING Skipping RVNL.NS: no data or missing OHLCV columns.
+2025-07-11 14:51:49,249 WARNING Skipping SAIL.NS: no data or missing OHLCV columns.
+2025-07-11 14:51:49,808 WARNING Skipping SBILIFE.NS: no data or missing OHLCV columns.
+2025-07-11 14:51:50,579 WARNING Skipping SBIN.NS: no data or missing OHLCV columns.
+2025-07-11 15:09:14,082 ERROR 
+1 Failed download:
+2025-07-11 15:09:14,082 ERROR ['SHRIRAMFIN.NS']: Timeout('Failed to perform, curl: (28) Connection timed out after 1043478 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:09:14,083 WARNING Skipping SHRIRAMFIN.NS: no data or missing OHLCV columns.
+2025-07-11 15:09:14,874 WARNING Skipping SIEMENS.NS: no data or missing OHLCV columns.
+2025-07-11 15:09:15,622 WARNING Skipping SJVN.NS: no data or missing OHLCV columns.
+2025-07-11 15:09:16,461 WARNING Skipping SOBHA.NS: no data or missing OHLCV columns.
+2025-07-11 15:09:17,295 WARNING Skipping SUNPHARMA.NS: no data or missing OHLCV columns.
+2025-07-11 15:09:17,877 WARNING Skipping SUZLON.NS: no data or missing OHLCV columns.
+2025-07-11 15:25:02,135 ERROR 
+1 Failed download:
+2025-07-11 15:25:02,135 ERROR ['TATACONSUM.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 944252 milliseconds with 39264 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:25:02,136 WARNING Skipping TATACONSUM.NS: no data or missing OHLCV columns.
+2025-07-11 15:25:02,783 WARNING Skipping TATAMOTORS.NS: no data or missing OHLCV columns.
+2025-07-11 15:25:03,661 WARNING Skipping TATAPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 15:25:04,525 WARNING Skipping TATASTEEL.NS: no data or missing OHLCV columns.
+2025-07-11 15:25:05,422 WARNING Skipping TCS.NS: no data or missing OHLCV columns.
+2025-07-11 15:25:06,129 WARNING Skipping TECHM.NS: no data or missing OHLCV columns.
+2025-07-11 15:42:42,507 ERROR 
+1 Failed download:
+2025-07-11 15:42:42,507 ERROR ['THERMAX.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 1056373 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:42:42,511 WARNING Skipping THERMAX.NS: no data or missing OHLCV columns.
+2025-07-11 15:42:43,576 WARNING Skipping TIINDIA.NS: no data or missing OHLCV columns.
+2025-07-11 15:42:44,280 WARNING Skipping TITAN.NS: no data or missing OHLCV columns.
+2025-07-11 15:42:44,990 WARNING Skipping TORNTPHARM.NS: no data or missing OHLCV columns.
+2025-07-11 15:42:45,860 WARNING Skipping TORNTPOWER.NS: no data or missing OHLCV columns.
+2025-07-11 15:42:46,356 WARNING Skipping TRENT.NS: no data or missing OHLCV columns.
+2025-07-11 15:42:47,066 WARNING Skipping TRITURBINE.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:15,958 ERROR 
+1 Failed download:
+2025-07-11 15:47:15,958 ERROR ['TVSMOTOR.NS']: Timeout('Failed to perform, curl: (28) Operation timed out after 268886 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-07-11 15:47:15,961 WARNING Skipping TVSMOTOR.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:16,834 WARNING Skipping UBL.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:17,462 WARNING Skipping UCOBANK.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:18,193 WARNING Skipping ULTRACEMCO.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:18,894 WARNING Skipping UNIONBANK.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:19,286 WARNING Skipping UNITDSPR.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:20,004 WARNING Skipping VBL.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:20,897 WARNING Skipping WIPRO.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:21,686 WARNING Skipping ZYDUSLIFE.NS: no data or missing OHLCV columns.
+2025-07-11 15:47:21,686 INFO No candidates.
